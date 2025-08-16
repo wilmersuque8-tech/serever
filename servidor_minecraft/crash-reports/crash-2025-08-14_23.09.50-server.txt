@@ -1,0 +1,203 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 2025-08-14 23:09:50
+Description: Ticking entity
+
+java.lang.NullPointerException: Cannot invoke "org.apache.commons.lang3.tuple.Pair.getKey()" because "this.groundDirecton" is null
+	at net.minecraft.world.entity.monster.Spider.getGroundSide(Spider.java:903) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,re:classloading,pl:mixin:APP:spiderstpo.mixins.json:ClimberEntityMixin,pl:mixin:APP:spiderstpo.mixins.json:BetterSpiderEntityMixin,pl:mixin:A}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.isValidStartingSide(AdvancedWalkNodeProcessor.java:215) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.removeNonStartingSides(AdvancedWalkNodeProcessor.java:206) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.m_7171_(AdvancedWalkNodeProcessor.java:174) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.CustomPathFinder.m_77427_(CustomPathFinder.java:68) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_148222_(PathNavigation.java:144) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26551_(PathNavigation.java:126) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at tcb.spiderstpo.common.entity.movement.AdvancedGroundPathNavigator.m_26551_(AdvancedGroundPathNavigator.java:78) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedClimberPathNavigator.m_7864_(AdvancedClimberPathNavigator.java:55) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at tcb.spiderstpo.common.entity.movement.BetterSpiderPathNavigator.m_7864_(BetterSpiderPathNavigator.java:22) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26524_(PathNavigation.java:96) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26519_(PathNavigation.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.arphex.procedures.SpiderChaserHallucination3OnEntityTickUpdateProcedure.execute(SpiderChaserHallucination3OnEntityTickUpdateProcedure.java:78) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23122!/:?] {re:classloading}
+	at net.arphex.entity.SpiderChaserHallucination3Entity.m_6075_(SpiderChaserHallucination3Entity.java:224) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23122!/:?] {re:classloading}
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:create.mixins.json:EntityMixin,pl:mixin:APP:spiderstpo.mixins.json:EntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:EntityMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:multipart_entities.MixinEntity,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:APP:create.mixins.json:ContraptionDriverInteractMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:spiderstpo.mixins.json:LivingEntityMixin,pl:mixin:APP:jeg.mixins.json:common.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:LivingEntityMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:LivingEntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:spiderstpo.mixins.json:MobEntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:MobMixin,pl:mixin:A}
+	at net.minecraft.world.entity.monster.Spider.m_8119_(Spider.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,re:classloading,pl:mixin:APP:spiderstpo.mixins.json:ClimberEntityMixin,pl:mixin:APP:spiderstpo.mixins.json:BetterSpiderEntityMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Suspected Mods: 
+	Nyf's Spiders 2.0 (spiderstpo), Version: 2.0.4
+		Mixin class: tcb.spiderstpo.mixins.ClimberEntityMixin
+		Target: net.minecraft.world.entity.monster.Spider
+		at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.monster.Spider.getGroundSide(Spider.java:903)
+
+	Arthropod Phobia Expansions (arphex), Version: 4.6.1
+		at TRANSFORMER/arphex@4.6.1/net.arphex.procedures.SpiderChaserHallucination3OnEntityTickUpdateProcedure.execute(SpiderChaserHallucination3OnEntityTickUpdateProcedure.java:78)
+Stacktrace:
+	at net.minecraft.world.entity.monster.Spider.getGroundSide(Spider.java:903) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,re:classloading,pl:mixin:APP:spiderstpo.mixins.json:ClimberEntityMixin,pl:mixin:APP:spiderstpo.mixins.json:BetterSpiderEntityMixin,pl:mixin:A}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.isValidStartingSide(AdvancedWalkNodeProcessor.java:215) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.removeNonStartingSides(AdvancedWalkNodeProcessor.java:206) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.m_7171_(AdvancedWalkNodeProcessor.java:174) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at tcb.spiderstpo.common.entity.movement.CustomPathFinder.m_77427_(CustomPathFinder.java:68) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:classloading}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_148222_(PathNavigation.java:144) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26551_(PathNavigation.java:126) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at tcb.spiderstpo.common.entity.movement.AdvancedGroundPathNavigator.m_26551_(AdvancedGroundPathNavigator.java:78) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at tcb.spiderstpo.common.entity.movement.AdvancedClimberPathNavigator.m_7864_(AdvancedClimberPathNavigator.java:55) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at tcb.spiderstpo.common.entity.movement.BetterSpiderPathNavigator.m_7864_(BetterSpiderPathNavigator.java:22) ~[spiderstpo-1.19.2-2.0.4.jar%23143!/:2.0.4] {re:mixin,re:classloading}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26524_(PathNavigation.java:96) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26519_(PathNavigation.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading,re:mixin}
+	at net.arphex.procedures.SpiderChaserHallucination3OnEntityTickUpdateProcedure.execute(SpiderChaserHallucination3OnEntityTickUpdateProcedure.java:78) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23122!/:?] {re:classloading}
+	at net.arphex.entity.SpiderChaserHallucination3Entity.m_6075_(SpiderChaserHallucination3Entity.java:224) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23122!/:?] {re:classloading}
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:create.mixins.json:EntityMixin,pl:mixin:APP:spiderstpo.mixins.json:EntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:EntityMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:multipart_entities.MixinEntity,pl:mixin:APP:carryon.mixins.json:EntityMixin,pl:mixin:APP:create.mixins.json:ContraptionDriverInteractMixin,pl:mixin:A}
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:spiderstpo.mixins.json:LivingEntityMixin,pl:mixin:APP:jeg.mixins.json:common.LivingEntityMixin,pl:mixin:APP:citadel.mixins.json:LivingEntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:LivingEntityMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:LivingEntityMixin,pl:mixin:A}
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:spiderstpo.mixins.json:MobEntityMixin,pl:mixin:APP:spartanweaponry.mixins.json:MobMixin,pl:mixin:A}
+	at net.minecraft.world.entity.monster.Spider.m_8119_(Spider.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,re:classloading,pl:mixin:APP:spiderstpo.mixins.json:ClimberEntityMixin,pl:mixin:APP:spiderstpo.mixins.json:BetterSpiderEntityMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+-- Entity being ticked --
+Details:
+	Entity Type: arphex:spider_chaser_hallucination_3 (net.arphex.entity.SpiderChaserHallucination3Entity)
+	Entity ID: 411
+	Entity Name: Chaser Spider Hallucination 3
+	Entity's Exact location: 81.32, 37.15, 207.61
+	Entity's Block location: World: (81,37,207), Section: (at 1,5,15 in 5,2,12; chunk contains blocks 80,0,192 to 95,255,207), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Entity's Momentum: -0.21, 0.01, 0.09
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:LevelMixin,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:classloading}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:ServerLevelMixin,pl:mixin:APP:mixins.bosses_of_mass_destruction.json:ExplosionMixin,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['tiliaso_01'/346, l='ServerLevel[world]', x=5.66, y=75.00, z=198.50]]
+	Chunk stats: 1521
+	Level dimension: minecraft:the_nether
+	Derived: true
+	Level spawn location: World: (0,114,0), Section: (at 0,2,0 in 0,7,0; chunk contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 1251944 game time, 1259561 day time
+	Level name: world
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Level weather: Rain time: 14907 (now: false), thunder time: 144998 (now: false)
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 17.0.16, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 4723793320 bytes (4504 MiB) / 6232735744 bytes (5944 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.99
+	Virtual memory used (MB): 7821.30
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 2 / 20; [ServerPlayer['rexsel'/39, l='ServerLevel[world]', x=104.29, y=67.00, z=1708.91], ServerPlayer['tiliaso_01'/346, l='ServerLevel[world]', x=5.66, y=75.00, z=198.50]]
+	Data Packs: vanilla, mod:farmersdelight, mod:mowziesmobs (incompatible), mod:spiderstpo (incompatible), mod:jeg (incompatible), mod:jei (incompatible), mod:sophisticatedcore (incompatible), mod:flywheel (incompatible), mod:spartanshields, mod:create, mod:arphex, mod:mobhealthbar (incompatible), mod:citadel, mod:alexsmobs (incompatible), mod:legendary_monsters (incompatible), mod:configured (incompatible), mod:mixinextras (incompatible), mod:sophisticatedbackpacks (incompatible), mod:butchersdelight, mod:spartanweaponry, mod:bosses_of_mass_destruction, mod:framework (incompatible), mod:cloth_config (incompatible), mod:forge, mod:geckolib3 (incompatible), mod:carryon (incompatible), mod:fallingtree
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.2.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.19.2-1.2.4.jar                   |Farmer's Delight              |farmersdelight                |1.19.2-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		mowziesmobs-1.6.3.jar                             |Mowzie's Mobs                 |mowziesmobs                   |1.6.3               |DONE      |Manifest: NOSIGNATURE
+		spiderstpo-1.19.2-2.0.4.jar                       |Nyf's Spiders 2.0             |spiderstpo                    |2.0.4               |DONE      |Manifest: NOSIGNATURE
+		JustEnoughGuns-0.4.0-1.19.2.jar                   |Just Enough Guns              |jeg                           |0.4.0               |DONE      |Manifest: NOSIGNATURE
+		jei-1.19.2-forge-11.8.1.1034.jar                  |Just Enough Items             |jei                           |11.8.1.1034         |DONE      |Manifest: NOSIGNATURE
+		sophisticatedcore-1.19.2-0.6.4.730.jar            |Sophisticated Core            |sophisticatedcore             |1.19.2-0.6.4.730    |DONE      |Manifest: NOSIGNATURE
+		flywheel-forge-1.19.2-0.6.11-22.jar               |Flywheel                      |flywheel                      |0.6.11-22           |DONE      |Manifest: NOSIGNATURE
+		spartanshields-1.19.2-3.0.1.jar                   |Spartan Shields               |spartanshields                |3.0.1               |DONE      |Manifest: NOSIGNATURE
+		create-1.19.2-0.5.1.i.jar                         |Create                        |create                        |0.5.1.i             |DONE      |Manifest: NOSIGNATURE
+		ArPhEx-4.6.1-forge-1.19.2.jar                     |Arthropod Phobia Expansions   |arphex                        |4.6.1               |DONE      |Manifest: NOSIGNATURE
+		mobhealthbar-forge-1.19.2-2.3.0.jar               |YDM's Mob Health Bar          |mobhealthbar                  |2.3.0               |DONE      |Manifest: NOSIGNATURE
+		citadel-2.1.4-1.19.jar                            |Citadel                       |citadel                       |2.1.4               |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.21.1.jar                              |Alex's Mobs                   |alexsmobs                     |1.21.1              |DONE      |Manifest: NOSIGNATURE
+		legendarymonsters-1.0.7 MC 1.19.2.jar             |LegendaryMonsters             |legendary_monsters            |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		configured-2.1.1-1.19.2.jar                       |Configured                    |configured                    |2.1.1               |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.5.jar                       |MixinExtras                   |mixinextras                   |0.3.5               |DONE      |Manifest: NOSIGNATURE
+		sophisticatedbackpacks-1.19.2-3.20.2.1035.jar     |Sophisticated Backpacks       |sophisticatedbackpacks        |1.19.2-3.20.2.1035  |DONE      |Manifest: NOSIGNATURE
+		Butchersdelight beta 1.19.2 2.1.0.jar             |ButchersDelight               |butchersdelight               |1.19.22.1.0         |DONE      |Manifest: NOSIGNATURE
+		SpartanWeaponry-1.19.2-3.0.7-all.jar              |Spartan Weaponry              |spartanweaponry               |3.0.7               |DONE      |Manifest: NOSIGNATURE
+		BOMD-Forge-1.19.2-1.0.6.jar                       |Bosses of Mass Destruction    |bosses_of_mass_destruction    |1.0.6               |DONE      |Manifest: NOSIGNATURE
+		carryon-forge-1.19.2-2.1.2.23.jar                 |Carry On                      |carryon                       |2.1.2.23            |DONE      |Manifest: NOSIGNATURE
+		framework-forge-1.19.2-0.7.12.jar                 |Framework                     |framework                     |0.7.12              |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		FallingTree-1.19.2-3.10.1.jar                     |FallingTree                   |fallingtree                   |3.10.1              |DONE      |Manifest: 3c:8e:df:6c:df:a6:2a:9f:af:64:ea:04:9a:cf:65:92:3b:54:93:0e:96:50:b4:52:e1:13:42:18:2b:ae:40:29
+		cloth-config-8.3.134-forge.jar                    |Cloth Config v8 API           |cloth_config                  |8.3.134             |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.2-universal.jar                 |Forge                         |forge                         |43.4.2              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		geckolib-forge-1.19-3.1.40.jar                    |GeckoLib                      |geckolib3                     |3.1.40              |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: c266c86e-c0f8-44af-9b5d-4e8149673e0e
+	FML: 43.4
+	Forge: net.minecraftforge:43.4.2

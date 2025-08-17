@@ -452,3 +452,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Aug2025 07:09:03.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Bonfire Lit]
 [17Aug2025 07:17:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was blown up by Spider Lunger
 [17Aug2025 07:17:21.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[17Aug2025 07:22:25.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
+[17Aug2025 07:22:25.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
+[17Aug2025 07:22:25.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[17Aug2025 07:22:25.474] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Aug2025 07:22:31.268] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6014c1bd
+[17Aug2025 07:22:31.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:51327] logged in with entity id 33932 at (-271.36165496884985, 111.63106814462894, 2037.8977531229345)
+[17Aug2025 07:22:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[17Aug2025 07:28:29.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[17Aug2025 07:28:29.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[17Aug2025 07:29:27.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
+[17Aug2025 07:29:27.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
+[17Aug2025 07:29:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[17Aug2025 07:29:33.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6264968e
+[17Aug2025 07:29:33.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:32797] logged in with entity id 37262 at (-241.87015636757883, 120.1601712346606, 2038.1453238340155)
+[17Aug2025 07:29:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[17Aug2025 07:29:36.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 moved too quickly! 0.0,-11.694736062225488,0.0
+[17Aug2025 07:31:14.775] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f1e49cc
+[17Aug2025 07:31:14.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:53025] logged in with entity id 38096 at (67.11942882192227, 63.0, 1695.3765434701518)
+[17Aug2025 07:31:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[17Aug2025 07:32:53.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[17Aug2025 07:33:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:34:02.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:34:04.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Taste the Rainbow]
+[17Aug2025 07:34:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[17Aug2025 07:35:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev drowned
+[17Aug2025 07:36:13.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was blown up by elikernomamahuev
+[17Aug2025 07:36:20.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:36:23.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:36:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was blown up by elikernomamahuev
+[17Aug2025 07:37:58.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:38:01.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:38:12.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:38:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:38:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:38:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:39:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[17Aug2025 07:39:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[17Aug2025 07:39:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to tiliaso_01]

@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-17 06:10:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -1217,6 +1223,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_wall_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-08-17 05:56:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -1457,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 06:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-13 22:28:50 +0000"
@@ -1628,6 +1646,12 @@
   "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-08-14 07:48:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-08-17 06:10:54 +0000"
     },
     "done": true
   },
@@ -2557,6 +2581,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-17 06:10:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_greatsword": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -2728,6 +2758,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_stairs": {
+    "criteria": {
+      "has_block": "2025-08-17 05:56:08 +0000"
     },
     "done": true
   },
@@ -3595,6 +3631,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_wall": {
+    "criteria": {
+      "has_block": "2025-08-17 05:56:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
@@ -3719,6 +3761,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-08-13 22:52:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_slab_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-08-17 05:56:08 +0000"
     },
     "done": true
   },
@@ -4274,6 +4322,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_slab": {
+    "criteria": {
+      "has_block": "2025-08-17 05:56:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-14 00:34:42 +0000"
@@ -4764,6 +4818,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_coarse_dirt": {
+    "criteria": {
+      "has_reinforced_gravel": "2025-08-17 06:29:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-14 07:06:15 +0000"
@@ -4815,6 +4875,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cracked_deepslate_tiles": {
+    "criteria": {
+      "has_item": "2025-08-17 05:56:08 +0000"
     },
     "done": true
   },
@@ -5049,6 +5115,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-08-13 22:58:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-08-17 05:56:08 +0000"
     },
     "done": true
   },
@@ -5553,6 +5625,12 @@
   "create:recipes/create.palettes/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 00:24:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-08-17 06:10:54 +0000"
     },
     "done": true
   },
@@ -6629,6 +6707,7 @@
     "criteria": {
       "cabbage": "2025-08-14 03:13:14 +0000",
       "sweet_berries": "2025-08-14 05:09:38 +0000",
+      "tomato": "2025-08-17 06:06:29 +0000",
       "rice": "2025-08-14 03:12:29 +0000",
       "beetroot": "2025-08-14 03:13:30 +0000",
       "sugar_cane": "2025-08-14 03:09:07 +0000",

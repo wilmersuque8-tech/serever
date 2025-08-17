@@ -4387,6 +4387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-17 07:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-13 23:33:03 +0000",
@@ -4635,6 +4641,12 @@
   "create:recipes/create.base/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-08-14 08:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-17 07:37:32 +0000"
     },
     "done": true
   },
@@ -5052,6 +5064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-17 07:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-14 06:36:47 +0000"
@@ -5409,6 +5427,12 @@
   "securitycraft:recipes/securitycraft/reinforced_polished_granite_slab_from_reinforced_granite_stonecutting": {
     "criteria": {
       "has_reinforced_granite": "2025-08-17 06:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-08-17 07:37:32 +0000"
     },
     "done": true
   },

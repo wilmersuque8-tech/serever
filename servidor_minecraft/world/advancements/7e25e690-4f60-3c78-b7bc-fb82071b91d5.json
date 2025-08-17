@@ -2337,6 +2337,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-08-17 07:10:29 +0000",
       "minecraft:sheep": "2025-08-15 04:53:00 +0000"
     },
     "done": false
@@ -5525,6 +5526,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-15 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-17 07:15:04 +0000"
     },
     "done": true
   },

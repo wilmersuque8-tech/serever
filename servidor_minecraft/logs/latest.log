@@ -450,3 +450,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Aug2025 06:52:08.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
 [17Aug2025 06:59:26.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [17Aug2025 07:09:03.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Bonfire Lit]
+[17Aug2025 07:17:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was blown up by Spider Lunger
+[17Aug2025 07:17:21.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]

@@ -1163,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-18 06:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 04:57:58 +0000"
@@ -2248,6 +2254,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-08-15 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-18 06:06:51 +0000"
     },
     "done": true
   },
@@ -3824,6 +3836,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-08-18 05:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:03:18 +0000"
@@ -4415,6 +4433,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-08-15 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-18 06:06:51 +0000"
     },
     "done": true
   },
@@ -5534,6 +5558,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-13 21:24:39 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-08-18 06:14:26 +0000",
       "minecraft:taiga": "2025-08-13 22:12:28 +0000",
       "minecraft:frozen_river": "2025-08-13 21:26:51 +0000",
       "minecraft:windswept_hills": "2025-08-14 05:53:22 +0000",
@@ -5545,8 +5570,11 @@
       "minecraft:grove": "2025-08-13 21:46:51 +0000",
       "minecraft:cold_ocean": "2025-08-13 22:11:09 +0000",
       "minecraft:forest": "2025-08-13 22:13:21 +0000",
+      "minecraft:lush_caves": "2025-08-18 06:13:46 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-18 06:15:26 +0000",
       "minecraft:frozen_ocean": "2025-08-13 21:27:05 +0000",
       "minecraft:windswept_forest": "2025-08-13 23:19:18 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-18 06:14:31 +0000",
       "minecraft:snowy_beach": "2025-08-14 02:51:47 +0000",
       "minecraft:meadow": "2025-08-14 22:36:55 +0000",
       "minecraft:plains": "2025-08-14 22:32:09 +0000"
@@ -5874,6 +5902,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-13 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-18 06:06:51 +0000"
     },
     "done": true
   },

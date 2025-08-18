@@ -1,39 +1,38 @@
-[18Aug2025 05:39:21.870] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[18Aug2025 05:39:21.879] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[18Aug2025 05:39:22.740] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[18Aug2025 05:39:23.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[18Aug2025 05:39:23.516] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[18Aug2025 05:39:23.518] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[18Aug2025 05:39:23.521] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[18Aug2025 05:39:24.009] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[18Aug2025 05:39:24.012] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[18Aug2025 05:39:27.750] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Aug2025 05:39:27.947] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18Aug2025 05:39:29.726] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[18Aug2025 05:39:40.571] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[18Aug2025 05:39:45.457] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[18Aug2025 05:39:52.118] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[18Aug2025 05:39:52.120] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
-[18Aug2025 05:39:52.122] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
-[18Aug2025 05:39:52.892] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[18Aug2025 05:39:52.892] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[18Aug2025 05:39:57.929] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_type / bosses_of_mass_destruction:void_blossom]' to registry
-[18Aug2025 05:39:57.930] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.cerbon.bosses_of_mass_destruction.structure.BMDStructures$$Lambda$10648/0x00007f5d89543138@24e1eb55' to registry
-[18Aug2025 05:39:58.307] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[18Aug2025 05:39:58.308] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[18Aug2025 05:39:58.310] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[18Aug2025 05:39:58.859] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[18Aug2025 05:39:59.159] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[18Aug2025 05:39:59.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[18Aug2025 05:39:59.951] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[18Aug2025 05:39:59.951] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[18Aug2025 05:39:59.951] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[18Aug2025 05:39:59.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
-[18Aug2025 05:39:59.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[18Aug2025 05:40:00.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[18Aug2025 05:40:00.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[18Aug2025 05:40:00.479] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[18Aug2025 05:40:00.494] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18Aug2025 05:47:04.928] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[18Aug2025 05:47:04.933] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[18Aug2025 05:47:05.912] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[18Aug2025 05:47:06.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[18Aug2025 05:47:06.840] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Aug2025 05:47:06.843] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Aug2025 05:47:06.846] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Aug2025 05:47:07.490] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18Aug2025 05:47:07.496] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[18Aug2025 05:47:12.128] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Aug2025 05:47:12.282] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18Aug2025 05:47:14.021] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[18Aug2025 05:47:28.015] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[18Aug2025 05:47:34.550] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[18Aug2025 05:47:41.482] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[18Aug2025 05:47:41.486] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[18Aug2025 05:47:41.489] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[18Aug2025 05:47:42.212] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[18Aug2025 05:47:42.213] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[18Aug2025 05:47:47.298] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_type / bosses_of_mass_destruction:void_blossom]' to registry
+[18Aug2025 05:47:47.299] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.cerbon.bosses_of_mass_destruction.structure.BMDStructures$$Lambda$10649/0x0000774fe9543800@6712d116' to registry
+[18Aug2025 05:47:47.756] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Aug2025 05:47:47.761] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Aug2025 05:47:47.768] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Aug2025 05:47:48.205] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[18Aug2025 05:47:48.689] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[18Aug2025 05:47:48.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[18Aug2025 05:47:49.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
+[18Aug2025 05:47:49.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[18Aug2025 05:47:49.969] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[18Aug2025 05:47:49.969] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[18Aug2025 05:47:49.970] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[18Aug2025 05:47:50.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[18Aug2025 05:47:50.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[18Aug2025 05:47:50.575] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -48,8 +47,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[18Aug2025 05:40:00.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[18Aug2025 05:40:00.538] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18Aug2025 05:47:50.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[18Aug2025 05:47:50.623] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -64,18 +63,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[18Aug2025 05:40:00.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Aug2025 05:40:00.549] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[18Aug2025 05:40:00.565] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[18Aug2025 05:40:00.569] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[18Aug2025 05:40:00.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[18Aug2025 05:40:06.131] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Aug2025 05:40:09.190] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
-[18Aug2025 05:40:09.190] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
-[18Aug2025 05:40:13.327] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[18Aug2025 05:40:13.379] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[18Aug2025 05:40:13.514] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)] as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)
-[18Aug2025 05:40:15.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ender_hammer
+[18Aug2025 05:47:50.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Aug2025 05:47:50.649] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[18Aug2025 05:47:50.710] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[18Aug2025 05:47:50.745] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[18Aug2025 05:47:50.753] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[18Aug2025 05:47:50.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[18Aug2025 05:47:55.455] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Aug2025 05:47:58.327] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[18Aug2025 05:47:58.328] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[18Aug2025 05:48:02.454] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[18Aug2025 05:48:02.488] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[18Aug2025 05:48:02.599] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)] as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)
+[18Aug2025 05:48:05.368] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ender_hammer
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ender_hammer'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.4.2-universal.jar%23154!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.4.2-universal.jar%23154!/:?]
@@ -106,7 +106,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ender_hamm
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[18Aug2025 05:40:15.992] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[18Aug2025 05:48:05.722] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -142,7 +142,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[18Aug2025 05:40:16.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
+[18Aug2025 05:48:05.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -177,7 +177,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[18Aug2025 05:40:16.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
+[18Aug2025 05:48:05.777] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -212,7 +212,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[18Aug2025 05:40:16.039] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[18Aug2025 05:48:05.783] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.4.2-universal.jar%23154!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.4.2-universal.jar%23154!/:?]
@@ -243,159 +243,170 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[18Aug2025 05:40:16.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[18Aug2025 05:40:16.582] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[18Aug2025 05:40:16.603] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[18Aug2025 05:40:16.712] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[18Aug2025 05:40:16.920] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Aug2025 05:40:16.921] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Aug2025 05:40:16.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Aug2025 05:40:16.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/ant_arsonist}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[18Aug2025 05:40:17.047] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[18Aug2025 05:40:17.086] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[18Aug2025 05:40:17.302] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3838 advancements
-[18Aug2025 05:40:19.425] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.637662ms
-[18Aug2025 05:40:19.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[18Aug2025 05:40:19.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Aug2025 05:40:19.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Aug2025 05:40:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Aug2025 05:40:20.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Aug2025 05:40:20.146] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Aug2025 05:40:20.376] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Aug2025 05:40:20.386] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Aug2025 05:40:20.390] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Aug2025 05:40:20.403] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Aug2025 05:40:20.729] [Server thread/INFO] [configured/]: Loading server configs...
-[18Aug2025 05:40:20.748] [Server thread/INFO] [Framework/]: Loading server configs...
-[18Aug2025 05:40:20.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Aug2025 05:40:33.977] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[18Aug2025 05:40:36.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Aug2025 05:40:43.244] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[18Aug2025 05:40:45.694] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[18Aug2025 05:40:46.621] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.638] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.645] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.655] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.657] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.666] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:46.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:47.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:47.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:47.739] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[18Aug2025 05:40:48.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[18Aug2025 05:40:48.655] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[18Aug2025 05:40:49.131] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1628) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:476) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:436) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:551) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:507) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:528) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
-	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:527) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
-	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18760_(ProcessorMailbox.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_6937_(ProcessorMailbox.java:124) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:681) ~[?:?]
-	at java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662) ~[?:?]
-	at java.util.concurrent.CompletableFuture.thenApplyAsync(CompletableFuture.java:2178) ~[?:?]
-	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141930_(EntityStorage.java:47) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157562_(PersistentEntitySectionManager.java:227) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157555_(PersistentEntitySectionManager.java:194) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157524_(PersistentEntitySectionManager.java:146) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.level.ChunkMap.m_143075_(ChunkMap.java:1256) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.level.ChunkHolder.m_200425_(ChunkHolder.java:335) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:535) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:543) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:267) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:751) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_129940_(MinecraftServer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:302) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:165) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:625) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-Caused by: java.lang.IllegalStateException: Entity has invalid position
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1622) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
-	... 50 more
-[18Aug2025 05:40:49.514] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13464 ms
-[18Aug2025 05:40:49.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.061s)! For help, type "help"
-[18Aug2025 05:40:49.576] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[18Aug2025 05:40:49.590] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Aug2025 05:41:17.459] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[18Aug2025 05:41:17.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28f50bca
-[18Aug2025 05:41:17.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:50683] logged in with entity id 37 at (112.45651131605032, -54.0, 1956.300000011921)
-[18Aug2025 05:41:17.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[18Aug2025 05:41:18.102] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
-[18Aug2025 05:41:22.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5274ms or 105 ticks behind
-[18Aug2025 05:41:23.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44d14759
-[18Aug2025 05:41:23.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.91.242.68:40049] logged in with entity id 72 at (18.25135635714233, 71.41999998688698, 190.0271429936082)
-[18Aug2025 05:41:23.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
-[18Aug2025 05:41:23.434] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
-[18Aug2025 05:41:28.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported MIKEGaming to rexsel]
-[18Aug2025 05:41:36.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1926b64c
-[18Aug2025 05:41:36.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:44997] logged in with entity id 261 at (74.98619092706761, 52.0, 1703.1743384583847)
-[18Aug2025 05:41:36.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[18Aug2025 05:41:37.078] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
-[18Aug2025 05:41:43.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6090ms or 121 ticks behind
-[18Aug2025 05:41:50.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ahora me va mas fluido
-[18Aug2025 05:42:04.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5554ms or 111 ticks behind
-[18Aug2025 05:42:06.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dale botellas de exp al miguel pexsel
-[18Aug2025 05:42:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Aug2025 05:42:12.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Aug2025 05:42:12.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Server closed
-[18Aug2025 05:42:12.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[18Aug2025 05:42:12.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
-[18Aug2025 05:42:12.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[18Aug2025 05:42:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Aug2025 05:42:19.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18Aug2025 05:42:22.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
-[18Aug2025 05:42:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_webrooms
-[18Aug2025 05:42:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18Aug2025 05:42:22.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18Aug2025 05:42:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18Aug2025 05:42:22.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
-[18Aug2025 05:42:22.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_webrooms): All chunks are saved
-[18Aug2025 05:42:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Aug2025 05:42:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Aug2025 05:42:22.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Aug2025 05:42:22.719] [Server thread/INFO] [configured/]: Unloading server configs...
-[18Aug2025 05:42:22.726] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
-[18Aug2025 05:42:22.742] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Aug2025 05:48:05.924] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[18Aug2025 05:48:06.462] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[18Aug2025 05:48:06.498] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[18Aug2025 05:48:06.631] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[18Aug2025 05:48:06.894] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Aug2025 05:48:06.895] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Aug2025 05:48:06.896] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Aug2025 05:48:06.896] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/ant_arsonist}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[18Aug2025 05:48:06.991] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[18Aug2025 05:48:07.025] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[18Aug2025 05:48:07.311] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3838 advancements
+[18Aug2025 05:48:09.460] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.569035ms
+[18Aug2025 05:48:09.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[18Aug2025 05:48:09.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Aug2025 05:48:09.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Aug2025 05:48:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Aug2025 05:48:09.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Aug2025 05:48:09.986] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Aug2025 05:48:10.215] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Aug2025 05:48:10.217] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Aug2025 05:48:10.219] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Aug2025 05:48:10.220] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Aug2025 05:48:10.614] [Server thread/INFO] [configured/]: Loading server configs...
+[18Aug2025 05:48:10.635] [Server thread/INFO] [Framework/]: Loading server configs...
+[18Aug2025 05:48:10.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Aug2025 05:48:17.448] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Aug2025 05:48:26.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Aug2025 05:48:31.794] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Aug2025 05:48:33.905] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Aug2025 05:48:36.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.944] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.951] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.958] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.962] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.966] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:36.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:37.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:37.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:38.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:38.364] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[18Aug2025 05:48:39.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 05:48:39.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[18Aug2025 05:48:40.078] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13712 ms
+[18Aug2025 05:48:40.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.805s)! For help, type "help"
+[18Aug2025 05:48:40.142] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Aug2025 05:48:43.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Aug2025 05:48:43.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71e8177d
+[18Aug2025 05:48:44.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.91.242.68:43225] logged in with entity id 36 at (111.01590361815309, -54.0, 1735.342015412914)
+[18Aug2025 05:48:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
+[18Aug2025 05:48:44.465] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
+[18Aug2025 05:48:49.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5360ms or 107 ticks behind
+[18Aug2025 05:48:51.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b0234ba
+[18Aug2025 05:48:51.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:36089] logged in with entity id 99 at (113.07499998807907, -53.0, 1979.925000011921)
+[18Aug2025 05:48:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[18Aug2025 05:48:51.443] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[18Aug2025 05:49:11.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7574ms or 151 ticks behind
+[18Aug2025 05:49:17.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e514d87
+[18Aug2025 05:49:17.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:46773] logged in with entity id 496 at (115.77312641958956, -7.64975715158627, 1699.855133546628)
+[18Aug2025 05:49:17.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[18Aug2025 05:49:18.086] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[18Aug2025 05:49:35.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8439ms or 168 ticks behind
+[18Aug2025 05:49:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si se vuelve a crashear el rexsel es puto
+[18Aug2025 05:50:08.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Aug2025 05:51:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si esa madre le pones filo 5, matas de un hit
+[18Aug2025 05:51:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo voy a tradear con aldeanos o lo pueda reproducir
+[18Aug2025 05:52:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[18Aug2025 05:52:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[18Aug2025 05:53:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Hunt and Gather]
+[18Aug2025 05:55:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aver}
+[18Aug2025 05:55:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [...And My Axe!]
+[18Aug2025 05:55:34.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> filo 3
+[18Aug2025 05:55:41.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nope
+[18Aug2025 05:55:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo 12 de exp
+[18Aug2025 05:57:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Mine? Mine? Mine?]
+[18Aug2025 05:57:33.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cuanta exp ocua la hacha?
+[18Aug2025 05:57:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[18Aug2025 05:58:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[18Aug2025 06:01:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Enchanter]
+[18Aug2025 06:01:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[18Aug2025 06:02:07.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[18Aug2025 06:03:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was doomed to fall by Spider Goliath
+[18Aug2025 06:05:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya la mate
+[18Aug2025 06:05:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Spider Lunger
+[18Aug2025 06:05:42.963] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43940a57
+[18Aug2025 06:05:42.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:46273] logged in with entity id 7173 at (58.69999998807907, 90.0, 1657.050000011921)
+[18Aug2025 06:05:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[18Aug2025 06:05:43.197] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[18Aug2025 06:05:54.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nope
+[18Aug2025 06:06:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cuantos eran?
+[18Aug2025 06:06:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ohh ya vi lo que paso
+[18Aug2025 06:06:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven
+[18Aug2025 06:06:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lo tengo yo
+[18Aug2025 06:06:32.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ten
+[18Aug2025 06:06:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo 20 niveles de exp
+[18Aug2025 06:06:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pasame el hacha
+[18Aug2025 06:07:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> poder 4
+[18Aug2025 06:07:11.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> o ocupo 20 niveles
+[18Aug2025 06:07:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> digo
+[18Aug2025 06:07:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 30
+[18Aug2025 06:07:17.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> osea 10 mas
+[18Aug2025 06:08:04.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming was electrocuted whilst fighting Spider Jump
+[18Aug2025 06:08:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported MIKEGaming to elikernomamahuev]
+[18Aug2025 06:08:31.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> wtf esa skin miguel
+[18Aug2025 06:08:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya mejor no te digo nada miguel
+[18Aug2025 06:08:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
+[18Aug2025 06:09:08.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven emilio
+[18Aug2025 06:09:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dejame probar esto
+[18Aug2025 06:10:01.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> huy
+[18Aug2025 06:10:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no tengo
+[18Aug2025 06:10:57.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18Aug2025 06:11:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pura mierda
+[18Aug2025 06:11:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> collecrting y eficiencia
+[18Aug2025 06:11:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lo mismo
+[18Aug2025 06:12:12.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Take Aim, Chaps!]
+[18Aug2025 06:12:21.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Disconnected
+[18Aug2025 06:12:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[18Aug2025 06:13:05.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> oye rexsel, me puedes poner en mod espectador es que se me perdio algo
+[18Aug2025 06:13:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set elikernomamahuev's game mode to Spectator Mode]
+[18Aug2025 06:14:51.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> chao miguel
+[18Aug2025 06:15:02.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKEGaming lost connection: Disconnected
+[18Aug2025 06:15:02.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming left the game
+[18Aug2025 06:15:02.678] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2025 06:15:09.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b2d1912
+[18Aug2025 06:15:09.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKEGaming[/127.91.242.68:48687] logged in with entity id 12240 at (37.69999998807907, 62.9375, 1693.6755667789819)
+[18Aug2025 06:15:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming joined the game
+[18Aug2025 06:15:10.025] [Server thread/INFO] [Jade/]: Syncing config to MIKEGaming (b41fe1b0-f76e-3026-af5e-27765babb1eb)
+[18Aug2025 06:15:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to MIKEGaming]
+[18Aug2025 06:16:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was shot by MIKEGaming
+[18Aug2025 06:16:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKEGaming has made the advancement [Take Aim]
+[18Aug2025 06:16:21.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! -6.380019650406098,0.0,8.166206060859622
+[18Aug2025 06:17:18.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Aug2025 06:17:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Aug2025 06:17:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Aug2025 06:17:18.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
+[18Aug2025 06:17:18.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[18Aug2025 06:17:18.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Server closed
+[18Aug2025 06:17:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[18Aug2025 06:17:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Aug2025 06:17:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Aug2025 06:17:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_webrooms
+[18Aug2025 06:17:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Aug2025 06:17:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Aug2025 06:17:22.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[18Aug2025 06:17:22.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Aug2025 06:17:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_webrooms): All chunks are saved
+[18Aug2025 06:17:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Aug2025 06:17:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Aug2025 06:17:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[18Aug2025 06:17:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Aug2025 06:17:22.301] [Server thread/INFO] [configured/]: Unloading server configs...
+[18Aug2025 06:17:22.301] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[18Aug2025 06:17:22.302] [Server thread/INFO] [Framework/]: Unloading server configs...

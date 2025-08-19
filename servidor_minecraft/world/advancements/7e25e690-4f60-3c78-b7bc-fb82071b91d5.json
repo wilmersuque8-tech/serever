@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-08-19 08:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 00:10:00 +0000"
@@ -704,6 +710,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-16 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-19 08:24:07 +0000"
     },
     "done": true
   },
@@ -1157,6 +1169,12 @@
     },
     "done": true
   },
+  "arphex:scorpioid_killed": {
+    "criteria": {
+      "scorpioid_killed_0": "2025-08-19 08:34:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:03:18 +0000"
@@ -1256,6 +1274,12 @@
   "create:recipes/create.base/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-08-17 06:50:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-08-19 08:03:24 +0000"
     },
     "done": true
   },
@@ -1454,6 +1478,12 @@
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-08-15 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-19 07:25:06 +0000"
     },
     "done": true
   },
@@ -2516,6 +2546,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "interact": "2025-08-19 07:32:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
@@ -2735,6 +2771,12 @@
   "create:recipes/create.palettes/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-08-14 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-19 07:28:55 +0000"
     },
     "done": true
   },
@@ -3125,6 +3167,12 @@
   "create:recipes/create.palettes/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-14 23:47:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-19 07:31:47 +0000"
     },
     "done": true
   },
@@ -3719,6 +3767,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-08-15 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-19 08:18:07 +0000"
     },
     "done": true
   },
@@ -5720,6 +5774,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-08-19 08:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-13 22:55:52 +0000"
@@ -6137,6 +6197,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-08-15 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-19 07:28:55 +0000"
     },
     "done": true
   },
@@ -6770,6 +6836,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-08-19 07:44:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 03:11:13 +0000"
@@ -6785,6 +6857,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-13 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-19 08:18:07 +0000"
     },
     "done": true
   },
@@ -7044,6 +7122,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 22:21:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-19 07:28:55 +0000"
     },
     "done": true
   },

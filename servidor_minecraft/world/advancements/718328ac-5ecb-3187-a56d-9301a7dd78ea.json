@@ -2053,6 +2053,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-08-19 06:58:58 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:05:26 +0000"
@@ -2284,6 +2290,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-18 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 06:58:58 +0000"
     },
     "done": true
   },
@@ -3164,6 +3176,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-08-19 05:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 06:58:58 +0000"
     },
     "done": true
   },

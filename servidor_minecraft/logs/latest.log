@@ -413,3 +413,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Aug2025 06:34:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Enchanter]
 [19Aug2025 06:37:15.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
 [19Aug2025 06:37:15.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[19Aug2025 06:38:26.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[19Aug2025 06:38:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[19Aug2025 06:39:55.584] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6210245c
+[19Aug2025 06:39:55.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:39703] logged in with entity id 28187 at (6.025408788749826, 42.0, 1693.699999988079)
+[19Aug2025 06:39:55.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[19Aug2025 06:39:55.638] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[19Aug2025 06:39:58.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20180f19
+[19Aug2025 06:39:58.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:38735] logged in with entity id 28191 at (59.43397918684813, 90.0, 1656.512499988079)
+[19Aug2025 06:39:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[19Aug2025 06:39:58.701] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[19Aug2025 06:40:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported EMILIOSIFUENTES to rexsel]
+[19Aug2025 06:41:31.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a estar afk un ratito

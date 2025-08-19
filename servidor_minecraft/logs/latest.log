@@ -373,3 +373,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Aug2025 05:57:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
 [19Aug2025 05:57:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
 [19Aug2025 05:57:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[19Aug2025 05:57:34.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! 0.8560016044332173,0.0,10.682414276267082
+[19Aug2025 05:58:52.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[19Aug2025 05:58:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[19Aug2025 06:00:39.147] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[19Aug2025 06:01:44.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved wrongly!
+[19Aug2025 06:03:11.021] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[19Aug2025 06:05:22.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79cca5d0
+[19Aug2025 06:05:22.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:59759] logged in with entity id 12738 at (113.99697472273267, -54.0, 2431.724560165578)
+[19Aug2025 06:05:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[19Aug2025 06:05:22.880] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[19Aug2025 06:05:33.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-59, z=2536} BlockPos{x=157, y=-57, z=2536}
+[19Aug2025 06:05:33.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=-59, z=2537} BlockPos{x=157, y=-57, z=2536}
+[19Aug2025 06:05:33.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=-59, z=2537} BlockPos{x=157, y=-57, z=2536}
+[19Aug2025 06:06:16.919] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[19Aug2025 06:06:25.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was pummeled by Void Blossom
+[19Aug2025 06:06:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES withered away whilst fighting Spider Recluse
+[19Aug2025 06:06:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[19Aug2025 06:07:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Going Clubbing]
+[19Aug2025 06:08:31.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Extreme Weeding]
+[19Aug2025 06:08:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES withered away whilst fighting Spider Recluse
+[19Aug2025 06:09:32.964] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[19Aug2025 06:09:41.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> spear
+[19Aug2025 06:11:30.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[19Aug2025 06:11:44.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[19Aug2025 06:11:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[19Aug2025 06:11:56.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[19Aug2025 06:12:41.665] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[19Aug2025 06:14:05.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[19Aug2025 06:14:55.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51cca80f
+[19Aug2025 06:14:56.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:33839] logged in with entity id 19279 at (107.40611200744085, -46.0, 2503.9856719382446)
+[19Aug2025 06:14:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[19Aug2025 06:14:56.061] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[19Aug2025 06:18:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Cover Me with Diamonds]
+[19Aug2025 06:18:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Mine? Mine? Mine?]
+[19Aug2025 06:19:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[19Aug2025 06:19:36.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Enchanter]
+[19Aug2025 06:24:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [What a Deal!]
+[19Aug2025 06:34:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Enchanter]
+[19Aug2025 06:37:15.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[19Aug2025 06:37:15.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game

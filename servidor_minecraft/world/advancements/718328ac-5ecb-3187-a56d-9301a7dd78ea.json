@@ -233,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-19 06:18:05 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-19 06:32:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-14 04:34:07 +0000"
@@ -689,6 +701,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/studded_club": {
+    "criteria": {
+      "has_club": "2025-08-19 06:07:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-14 03:01:28 +0000"
@@ -704,6 +722,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-18 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2025-08-19 06:07:13 +0000"
     },
     "done": true
   },
@@ -1069,6 +1093,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-19 06:32:09 +0000"
     },
     "done": true
   },
@@ -1954,6 +1984,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-19 06:32:09 +0000"
     },
     "done": true
   },
@@ -4026,6 +4062,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-08-18 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-19 06:05:59 +0000"
     },
     "done": true
   },

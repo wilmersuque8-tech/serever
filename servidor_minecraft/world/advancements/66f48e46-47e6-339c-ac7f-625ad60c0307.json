@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -1157,6 +1163,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/medium_bolt_quiver_smithing": {
+    "criteria": {
+      "has_medium_quiver_upgrade_kit": "2025-08-20 02:43:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -1241,6 +1253,12 @@
     },
     "done": true
   },
+  "arphex:scorpioid_killed": {
+    "criteria": {
+      "scorpioid_killed_0": "2025-08-20 02:13:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 02:08:37 +0000"
@@ -1256,6 +1274,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-08-19 06:05:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-08-20 02:13:11 +0000"
     },
     "done": true
   },
@@ -1811,6 +1835,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/large_bolt_quiver_smithing": {
+    "criteria": {
+      "has_large_quiver_upgrade_kit": "2025-08-20 02:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -2209,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-13 22:59:44 +0000"
@@ -2518,6 +2554,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-13 22:57:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:small_quiver": {
+    "criteria": {
+      "has_quiver": "2025-08-20 02:44:15 +0000"
     },
     "done": true
   },
@@ -3007,6 +3049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2025-08-13 22:28:50 +0000"
@@ -3172,6 +3220,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-08-13 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-20 02:13:10 +0000"
     },
     "done": true
   },
@@ -3490,6 +3544,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-19 05:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },
@@ -3991,6 +4051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
@@ -4006,6 +4072,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-08-14 08:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },
@@ -5203,6 +5275,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/medium_arrow_quiver_smithing": {
+    "criteria": {
+      "has_medium_quiver_upgrade_kit": "2025-08-20 02:43:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -5266,6 +5344,12 @@
   "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-14 07:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },
@@ -5491,6 +5575,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_quiver": {
+    "criteria": {
+      "has_upgraded_quiver": "2025-08-20 02:44:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-14 05:13:49 +0000"
@@ -5686,6 +5776,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-14 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },
@@ -5916,7 +6012,8 @@
       "minecraft:frozen_ocean": "2025-08-14 03:43:09 +0000",
       "minecraft:windswept_forest": "2025-08-13 23:19:17 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-19 07:41:52 +0000",
-      "minecraft:snowy_beach": "2025-08-14 00:36:41 +0000"
+      "minecraft:snowy_beach": "2025-08-14 00:36:41 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-20 01:59:08 +0000"
     },
     "done": false
   },
@@ -6310,6 +6407,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-08-20 02:13:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-19 06:41:26 +0000"
@@ -6508,6 +6611,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-20 02:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-13 23:15:44 +0000"
@@ -6595,6 +6704,7 @@
       "baked_potato": "2025-08-14 02:32:24 +0000",
       "bread": "2025-08-13 22:48:07 +0000",
       "rotten_flesh": "2025-08-14 01:21:40 +0000",
+      "glow_berries": "2025-08-20 02:18:03 +0000",
       "dried_kelp": "2025-08-14 11:11:55 +0000"
     },
     "done": false
@@ -6824,6 +6934,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },
@@ -7100,6 +7216,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-13 23:59:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/large_arrow_quiver_smithing": {
+    "criteria": {
+      "has_large_quiver_upgrade_kit": "2025-08-20 02:44:07 +0000"
     },
     "done": true
   },
@@ -8029,6 +8151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-20 02:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
@@ -8098,6 +8226,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-08-20 02:26:21 +0000"
     },
     "done": true
   },

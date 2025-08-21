@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 10:06:02 +0000"
@@ -1597,6 +1603,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-08-14 05:33:56 +0000"
@@ -2141,6 +2153,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-08-20 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-21 01:58:26 +0000"
     },
     "done": true
   },

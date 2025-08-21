@@ -515,3 +515,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Aug2025 01:47:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
 [21Aug2025 01:52:39.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
 [21Aug2025 01:52:39.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[21Aug2025 01:56:11.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fb4f5f4
+[21Aug2025 01:56:11.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:57431] logged in with entity id 40947 at (47.208680505032746, 63.9375, 1719.1154365011273)
+[21Aug2025 01:56:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[21Aug2025 01:56:11.158] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)

@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-21 02:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-13 22:46:03 +0000"
@@ -7545,6 +7551,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-21 02:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-08-14 06:52:32 +0000"
@@ -7995,6 +8007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-21 02:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -8274,6 +8292,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-21 02:02:31 +0000"
     },
     "done": true
   },

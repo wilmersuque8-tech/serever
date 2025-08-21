@@ -9530,3 +9530,154 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Aug2025 02:12:51.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Aug2025 02:13:49.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [21Aug2025 02:13:49.609] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:15.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:15.261] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:15.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:15.410] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:15.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:15.708] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:15.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:15.862] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:16.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:16.010] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:16.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:16.262] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:16.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:16.411] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:16.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:16.565] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:16.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:16.713] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:17.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:17.306] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:17.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:17.562] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:18.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:18.058] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:23.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:23.312] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:14:23.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 withered away whilst fighting Spider Recluse
+[21Aug2025 02:14:35.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:14:35.458] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:38.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:38.596] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:38.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:38.663] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:39.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:39.064] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:39.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:39.166] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:39.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:39.472] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:48.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:48.997] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:15:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:15:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:01.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[21Aug2025 02:16:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[21Aug2025 02:16:19.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:19.584] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:24.200] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:24.200] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:24.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:24.401] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:26.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:26.239] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:26.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:26.423] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:28.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:28.059] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:28.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:28.518] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:28.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:28.650] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:31.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:31.733] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:32.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:32.037] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:32.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:32.203] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:33.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:33.204] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:33.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:33.426] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:33.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[21Aug2025 02:16:33.527] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[21Aug2025 02:16:33.695] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[21Aug2025 02:16:33.695] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[21Aug2025 02:16:33.703] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@4b4eced1
+[21Aug2025 02:16:33.703] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[21Aug2025 02:16:33.713] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[21Aug2025 02:16:33.713] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[21Aug2025 02:16:33.718] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:870) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "org.apache.commons.lang3.tuple.Pair.getKey()" because "this.groundDirecton" is null
+	at net.minecraft.world.entity.monster.Spider.getGroundSide(Spider.java:903) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.isValidStartingSide(AdvancedWalkNodeProcessor.java:215) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.removeNonStartingSides(AdvancedWalkNodeProcessor.java:206) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at tcb.spiderstpo.common.entity.movement.AdvancedWalkNodeProcessor.m_7171_(AdvancedWalkNodeProcessor.java:174) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at tcb.spiderstpo.common.entity.movement.CustomPathFinder.m_77427_(CustomPathFinder.java:68) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_148222_(PathNavigation.java:144) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26551_(PathNavigation.java:126) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at tcb.spiderstpo.common.entity.movement.AdvancedGroundPathNavigator.m_26551_(AdvancedGroundPathNavigator.java:78) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at tcb.spiderstpo.common.entity.movement.AdvancedClimberPathNavigator.m_7864_(AdvancedClimberPathNavigator.java:55) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at tcb.spiderstpo.common.entity.movement.BetterSpiderPathNavigator.m_7864_(BetterSpiderPathNavigator.java:22) ~[spiderstpo-1.19.2-2.0.4.jar%23147!/:2.0.4]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26524_(PathNavigation.java:96) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26519_(PathNavigation.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.arphex.procedures.SpiderChaserHallucination3OnEntityTickUpdateProcedure.execute(SpiderChaserHallucination3OnEntityTickUpdateProcedure.java:78) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23125!/:?]
+	at net.arphex.entity.SpiderChaserHallucination3Entity.m_6075_(SpiderChaserHallucination3Entity.java:224) ~[ArPhEx-4.6.1-forge-1.19.2.jar%23125!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:318) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.entity.monster.Spider.m_8119_(Spider.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:457) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:323) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:303) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23149!/:?]
+	... 5 more
+[21Aug2025 02:16:33.750] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 3706177b-e2c1-4594-bda5-dcb0aafdf46f
+[21Aug2025 02:16:33.751] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/serever/servidor_minecraft/./crash-reports/crash-2025-08-21_02.16.33-server.txt
+[21Aug2025 02:16:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Aug2025 02:16:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Aug2025 02:16:33.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Server closed
+[21Aug2025 02:16:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[21Aug2025 02:16:33.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
+[21Aug2025 02:16:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[21Aug2025 02:16:33.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Aug2025 02:16:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Aug2025 02:16:36.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_webrooms
+[21Aug2025 02:16:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Aug2025 02:16:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Aug2025 02:16:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[21Aug2025 02:16:37.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Aug2025 02:16:37.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_webrooms): All chunks are saved
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[21Aug2025 02:16:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Aug2025 02:16:37.110] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[21Aug2025 02:16:37.111] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[21Aug2025 02:16:37.198] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for arphex:the_webrooms
+[21Aug2025 02:16:37.198] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for arphex:the_webrooms
+[21Aug2025 02:16:37.198] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[21Aug2025 02:16:37.198] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[21Aug2025 02:16:37.208] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[21Aug2025 02:16:37.208] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[21Aug2025 02:16:37.208] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for arphex:the_crawling
+[21Aug2025 02:16:37.208] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for arphex:the_crawling
+[21Aug2025 02:16:37.210] [Server thread/INFO] [configured/]: Unloading server configs...
+[21Aug2025 02:16:37.211] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[21Aug2025 02:16:37.212] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Aug2025 02:16:37.212] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[21Aug2025 02:16:37.212] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[21Aug2025 02:16:37.213] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies

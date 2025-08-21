@@ -2969,6 +2969,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-21 02:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-14 02:22:57 +0000"
@@ -3278,6 +3284,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2025-08-21 02:32:42 +0000"
     },
     "done": true
   },
@@ -5996,6 +6008,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-16 04:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-21 02:32:16 +0000"
     },
     "done": true
   },

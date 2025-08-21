@@ -505,3 +505,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Aug2025 01:42:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 4 entities to rexsel]
 [21Aug2025 01:42:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
 [21Aug2025 01:42:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set elikernomamahuev's game mode to Survival Mode]
+[21Aug2025 01:43:13.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[21Aug2025 01:45:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Speed to rexsel]
+[21Aug2025 01:45:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[21Aug2025 01:45:32.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 0.84064943190549,0.0,17.811001586251678
+[21Aug2025 01:45:40.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Speed to rexsel]
+[21Aug2025 01:46:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Speed to rexsel]
+[21Aug2025 01:46:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[21Aug2025 01:47:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[21Aug2025 01:52:39.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[21Aug2025 01:52:39.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game

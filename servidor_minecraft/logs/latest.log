@@ -519,3 +519,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Aug2025 01:56:11.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:57431] logged in with entity id 40947 at (47.208680505032746, 63.9375, 1719.1154365011273)
 [21Aug2025 01:56:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
 [21Aug2025 01:56:11.158] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[21Aug2025 02:08:18.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from elikernomamahuev: Location (76.1875, 64.11150220781565, 1708.7832831144333) too far away from hit block BlockPos{x=76, y=64, z=1707}.

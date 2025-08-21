@@ -2240,6 +2240,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-21 02:21:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:01:41 +0000"
@@ -2819,6 +2825,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-14 04:08:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-21 02:21:41 +0000"
     },
     "done": true
   },
@@ -5472,6 +5484,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-14 09:34:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-21 02:21:41 +0000"
     },
     "done": true
   },

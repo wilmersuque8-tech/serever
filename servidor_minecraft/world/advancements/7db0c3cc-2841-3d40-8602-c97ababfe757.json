@@ -5397,6 +5397,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-21 01:21:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-14 07:07:17 +0000"

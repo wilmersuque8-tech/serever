@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-08-14 05:35:21 +0000"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
     "criteria": {
       "has_wood": "2025-08-14 02:22:57 +0000"
@@ -1163,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-21 01:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
@@ -1205,6 +1223,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-08-14 03:43:36 +0000"
@@ -1238,6 +1262,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-14 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -1463,6 +1493,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 02:30:48 +0000"
@@ -1619,6 +1655,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-08-14 03:27:20 +0000"
@@ -1688,6 +1730,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
     "criteria": {
       "has_wood": "2025-08-14 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -1865,6 +1913,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
@@ -1892,6 +1946,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-14 23:38:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -2087,9 +2147,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-08-14 02:19:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -2204,6 +2276,12 @@
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -2372,6 +2450,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -2549,6 +2633,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-08-14 02:43:18 +0000"
@@ -2633,6 +2723,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-08-14 02:23:04 +0000"
@@ -2684,6 +2780,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-14 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -2783,6 +2885,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
@@ -2792,6 +2900,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-16 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -2954,6 +3068,12 @@
   "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-08-20 02:10:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -3167,6 +3287,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-14 02:22:57 +0000"
@@ -3224,6 +3350,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -3320,6 +3452,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -3554,6 +3692,12 @@
   "spartanshields:recipes/spartanshields/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -3949,6 +4093,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-08-14 04:03:47 +0000"
@@ -4120,6 +4270,12 @@
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-08-16 03:47:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -4342,6 +4498,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 02:25:23 +0000"
@@ -4387,6 +4549,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
     "criteria": {
       "has_meat": "2025-08-14 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -4543,6 +4711,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -4805,6 +4979,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -5096,6 +5282,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-14 02:22:57 +0000"
@@ -5321,9 +5513,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -5384,6 +5588,12 @@
   "create:recipes/create.palettes/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-08-20 02:10:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },
@@ -5525,6 +5735,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-08-14 05:50:50 +0000"
@@ -5552,6 +5768,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-14 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-08-21 01:40:23 +0000"
     },
     "done": true
   },
@@ -5627,6 +5849,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-14 04:30:39 +0000"
@@ -5678,6 +5906,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-16 04:18:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-08-21 01:40:37 +0000"
     },
     "done": true
   },

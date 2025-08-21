@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-08-21 01:26:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-15 02:34:44 +0000"
@@ -674,6 +680,12 @@
   "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-08-19 07:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-08-21 01:26:17 +0000"
     },
     "done": true
   },
@@ -1310,6 +1322,12 @@
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-08-21 01:26:17 +0000"
     },
     "done": true
   },
@@ -3406,6 +3424,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-08-21 01:23:33 +0000"
     },
     "done": true
   },
@@ -8028,6 +8052,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-08-14 10:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-08-21 01:26:17 +0000"
     },
     "done": true
   },

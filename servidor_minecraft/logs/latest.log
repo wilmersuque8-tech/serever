@@ -1550,3 +1550,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 21:26:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo en fa
 [24Aug2025 21:26:52.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
 [24Aug2025 21:26:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 21:28:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
+[24Aug2025 21:29:39.277] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:29:42.230] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:29:45.182] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:30:47.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:57287] logged in with entity id 28736 at (-1280.433335876309, 152.5625, -307.22330112325454)
+[24Aug2025 21:30:47.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 21:32:16.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> toca matarse otra ve
+[24Aug2025 21:32:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
+[24Aug2025 21:36:28.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:47567] logged in with entity id 33162 at (-111.93749526718385, 70.0, 15.901568917771627)
+[24Aug2025 21:36:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[24Aug2025 21:36:31.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the confines of this world
+[24Aug2025 21:36:38.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 21:37:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 21:38:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 21:38:14.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 21:38:30.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 21:38:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 21:39:11.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
+[24Aug2025 21:40:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by Skeleton
+[24Aug2025 21:40:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 froze to death
+[24Aug2025 21:41:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by Skeleton
+[24Aug2025 21:41:51.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1047, y=99, z=-776}
+[24Aug2025 21:41:51.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1046, y=98, z=-776}
+[24Aug2025 21:41:51.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1045, y=97, z=-776}
+[24Aug2025 21:41:56.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-771}
+[24Aug2025 21:41:56.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1049, y=99, z=-772}
+[24Aug2025 21:41:56.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
+[24Aug2025 21:41:58.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
+[24Aug2025 21:41:58.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-771}
+[24Aug2025 21:41:58.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
+[24Aug2025 21:42:01.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
+[24Aug2025 21:42:10.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=99, z=-771}
+[24Aug2025 21:42:10.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1062, y=97, z=-771}
+[24Aug2025 21:42:10.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=97, z=-772}
+[24Aug2025 21:42:11.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1064, y=98, z=-774}
+[24Aug2025 21:42:11.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1064, y=99, z=-775}
+[24Aug2025 21:42:11.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=99, z=-775}
+[24Aug2025 21:45:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Best Friends Forever]
+[24Aug2025 21:45:25.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel hit the ground too hard
+[24Aug2025 21:46:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[24Aug2025 21:48:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Eighty!]
+[24Aug2025 21:48:49.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Cover Me with Diamonds]
+[24Aug2025 21:48:50.883] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:48:50.883] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:48:50.884] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:48:50.884] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[24Aug2025 21:49:40.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES fell from a high place
+[24Aug2025 21:58:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 300.0 block(s) wide over 5 second(s)]
+[24Aug2025 21:58:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the confines of this world
+[24Aug2025 21:58:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the confines of this world

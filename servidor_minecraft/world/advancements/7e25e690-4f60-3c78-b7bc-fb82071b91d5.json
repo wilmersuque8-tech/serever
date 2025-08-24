@@ -28,12 +28,14 @@
       "minecraft:snowy_slopes": "2025-08-24 03:34:09 +0000",
       "minecraft:taiga": "2025-08-23 06:43:15 +0000",
       "minecraft:frozen_river": "2025-08-23 04:17:58 +0000",
+      "minecraft:river": "2025-08-24 21:38:45 +0000",
       "minecraft:snowy_plains": "2025-08-23 04:13:36 +0000",
       "minecraft:stony_shore": "2025-08-23 05:33:33 +0000",
       "minecraft:snowy_taiga": "2025-08-23 04:14:01 +0000",
       "minecraft:dripstone_caves": "2025-08-24 02:30:46 +0000",
       "minecraft:grove": "2025-08-23 05:02:28 +0000",
       "minecraft:lush_caves": "2025-08-23 04:26:11 +0000",
+      "minecraft:ice_spikes": "2025-08-24 21:36:26 +0000",
       "minecraft:frozen_ocean": "2025-08-23 04:17:52 +0000",
       "minecraft:snowy_beach": "2025-08-23 04:17:49 +0000",
       "minecraft:frozen_peaks": "2025-08-23 05:10:57 +0000",
@@ -2150,12 +2152,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-08-24 21:15:36 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:main/common_blueprint": {
     "criteria": {
       "0": "2025-08-24 20:44:29 +0000"
@@ -2186,15 +2182,189 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:49:20 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/thermometer": {
     "criteria": {
       "has_redstone": "2025-08-24 20:49:34 +0000"
     },
     "done": true
   },
-  "toughasnails:recipes/decorations/water_purifier": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_copper_ingot": "2025-08-24 20:49:20 +0000"
+      "has_gravel": "2025-08-24 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-24 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/small_rocket": {
+    "criteria": {
+      "has_fusee": "2025-08-24 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-24 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-24 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-24 21:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-24 21:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-24 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-24 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/small_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-24 21:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/rpg_rocket_standard": {
+    "criteria": {
+      "has_fusee": "2025-08-24 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/large_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-24 21:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-24 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/medium_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-24 21:49:34 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/rpg_rocket_tbg": {
+    "criteria": {
+      "has_fusee": "2025-08-24 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-24 21:52:39 +0000"
     },
     "done": true
   },

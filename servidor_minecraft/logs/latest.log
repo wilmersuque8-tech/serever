@@ -1,49 +1,49 @@
-[24Aug2025 20:36:47.117] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Aug2025 20:36:47.121] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[24Aug2025 20:36:50.223] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Aug2025 20:36:50.317] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Aug2025 20:36:50.671] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Aug2025 20:36:50.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Aug2025 20:36:50.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Aug2025 20:36:50.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Aug2025 20:36:51.238] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[24Aug2025 20:36:53.460] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Aug2025 20:36:53.523] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Aug2025 20:36:54.469] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/block/entities/TileTicker (java.lang.ClassNotFoundException: noobanidus.mods.lootr.block.entities.TileTicker)
-[24Aug2025 20:36:56.379] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[24Aug2025 20:37:04.191] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Aug2025 20:37:04.194] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Aug2025 20:37:06.242] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@2a201aa9 has been registered twice for the same name treechop:chop_wood.
-[24Aug2025 20:37:07.978] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[24Aug2025 20:37:08.046] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
-[24Aug2025 20:37:08.305] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[24Aug2025 20:37:08.306] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[24Aug2025 20:37:08.306] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[24Aug2025 20:37:08.306] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[24Aug2025 20:37:08.306] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[24Aug2025 20:37:08.307] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[24Aug2025 20:37:08.307] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[24Aug2025 20:37:08.307] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[24Aug2025 20:37:08.307] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[24Aug2025 20:37:08.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Aug2025 20:37:09.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Aug2025 20:37:09.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[24Aug2025 20:37:09.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
-[24Aug2025 20:37:12.235] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Aug2025 20:37:13.986] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[24Aug2025 20:37:13.986] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[24Aug2025 20:37:30.088] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/serever/servidor_minecraft/tacz
-[24Aug2025 20:37:30.090] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[24Aug2025 20:37:30.090] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[24Aug2025 20:37:31.344] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1.jar), 
+[24Aug2025 22:04:32.348] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Aug2025 22:04:32.351] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[24Aug2025 22:04:32.895] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Aug2025 22:04:32.953] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serever/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Aug2025 22:04:33.207] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Aug2025 22:04:33.210] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Aug2025 22:04:33.211] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Aug2025 22:04:33.213] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serever/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Aug2025 22:04:33.551] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[24Aug2025 22:04:35.445] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Aug2025 22:04:35.508] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Aug2025 22:04:36.259] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/block/entities/TileTicker (java.lang.ClassNotFoundException: noobanidus.mods.lootr.block.entities.TileTicker)
+[24Aug2025 22:04:37.407] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[24Aug2025 22:04:45.553] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Aug2025 22:04:45.553] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Aug2025 22:04:47.780] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@2a201aa9 has been registered twice for the same name treechop:chop_wood.
+[24Aug2025 22:04:49.352] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[24Aug2025 22:04:49.455] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
+[24Aug2025 22:04:49.530] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[24Aug2025 22:04:49.531] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[24Aug2025 22:04:49.531] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[24Aug2025 22:04:49.532] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[24Aug2025 22:04:49.532] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[24Aug2025 22:04:49.532] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[24Aug2025 22:04:49.533] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[24Aug2025 22:04:49.533] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[24Aug2025 22:04:49.533] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[24Aug2025 22:04:49.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Aug2025 22:04:50.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24Aug2025 22:04:50.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[24Aug2025 22:04:50.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[24Aug2025 22:04:53.415] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Aug2025 22:04:55.320] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[24Aug2025 22:04:55.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serever/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[24Aug2025 22:05:08.779] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/serever/servidor_minecraft/tacz
+[24Aug2025 22:05:08.780] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[24Aug2025 22:05:08.781] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[24Aug2025 22:05:10.340] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1.jar), 
 	nethersdelight:golden_machete (from butcher-3.6.1-forge-1.20.1.jar), 
 	nethersdelight:diamond_machete (from butcher-3.6.1-forge-1.20.1.jar), 
 	nethersdelight:netherite_machete (from butcher-3.6.1-forge-1.20.1.jar)
-[24Aug2025 20:37:31.345] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1.jar), 
+[24Aug2025 22:05:10.341] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1.jar), 
 	#farmersdelight:tools/knives (from butcher-3.6.1-forge-1.20.1.jar)
-[24Aug2025 20:37:31.348] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1.jar)
-[24Aug2025 20:37:31.348] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1.jar)
-[24Aug2025 20:37:31.657] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
+[24Aug2025 22:05:10.343] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1.jar)
+[24Aug2025 22:05:10.343] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1.jar)
+[24Aug2025 22:05:10.729] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -95,7 +95,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Aug2025 20:37:31.833] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_leg_cut
+[24Aug2025 22:05:10.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_leg_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -124,7 +124,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.835] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:meatballrecipe
+[24Aug2025 22:05:10.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:meatballrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -153,7 +153,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
+[24Aug2025 22:05:10.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -182,7 +182,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.847] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ribeyecut
+[24Aug2025 22:05:10.958] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ribeyecut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -211,7 +211,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.849] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
+[24Aug2025 22:05:10.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -240,7 +240,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
+[24Aug2025 22:05:10.961] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -269,7 +269,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.855] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:rumsteakcut
+[24Aug2025 22:05:10.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:rumsteakcut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -298,7 +298,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
+[24Aug2025 22:05:10.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
@@ -331,7 +331,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.863] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
+[24Aug2025 22:05:10.971] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -360,7 +360,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
+[24Aug2025 22:05:10.973] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -398,7 +398,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.866] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
+[24Aug2025 22:05:10.975] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -427,7 +427,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.868] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_rib_cut
+[24Aug2025 22:05:10.977] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_rib_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -456,7 +456,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.870] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:steakandpotatosrecipe
+[24Aug2025 22:05:10.979] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:steakandpotatosrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:cooked_rice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -494,7 +494,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:cooked_rice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:tbonecut
+[24Aug2025 22:05:10.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:tbonecut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -523,7 +523,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
+[24Aug2025 22:05:10.991] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -552,7 +552,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.887] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:sirloincut
+[24Aug2025 22:05:10.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:sirloincut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -581,7 +581,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.889] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
+[24Aug2025 22:05:11.000] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -610,7 +610,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.890] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_loin_cut
+[24Aug2025 22:05:11.001] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_loin_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -639,7 +639,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.898] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
+[24Aug2025 22:05:11.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -668,7 +668,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:chuckcut
+[24Aug2025 22:05:11.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:chuckcut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -697,7 +697,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.904] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pork_cut
+[24Aug2025 22:05:11.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pork_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -726,7 +726,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
+[24Aug2025 22:05:11.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -755,7 +755,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
+[24Aug2025 22:05:11.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -784,7 +784,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
+[24Aug2025 22:05:11.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -813,7 +813,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.912] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
+[24Aug2025 22:05:11.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -842,7 +842,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.913] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
+[24Aug2025 22:05:11.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -871,7 +871,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.915] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:loin_cut
+[24Aug2025 22:05:11.032] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:loin_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -900,7 +900,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_sirloin_cut
+[24Aug2025 22:05:11.035] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_sirloin_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -929,7 +929,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
+[24Aug2025 22:05:11.038] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -958,7 +958,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
+[24Aug2025 22:05:11.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -987,7 +987,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
+[24Aug2025 22:05:11.044] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1016,7 +1016,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:31.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
+[24Aug2025 22:05:11.045] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1045,7 +1045,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.051] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ham_cut
+[24Aug2025 22:05:11.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ham_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1074,7 +1074,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.053] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
+[24Aug2025 22:05:11.854] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1103,7 +1103,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.054] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
+[24Aug2025 22:05:11.855] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
@@ -1136,7 +1136,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.056] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_shoulder_cut
+[24Aug2025 22:05:11.857] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:lamb_shoulder_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1165,7 +1165,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.059] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
+[24Aug2025 22:05:11.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1194,7 +1194,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:shoulder_cut
+[24Aug2025 22:05:11.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:shoulder_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1223,7 +1223,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.062] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:roastedmuttonchopsrecipe
+[24Aug2025 22:05:11.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:roastedmuttonchopsrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:cooked_rice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1261,7 +1261,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:cooked_rice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.063] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
+[24Aug2025 22:05:11.865] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1290,7 +1290,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
+[24Aug2025 22:05:11.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:glassworking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1319,7 +1319,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:gla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pork_leg_cut
+[24Aug2025 22:05:11.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pork_leg_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1348,7 +1348,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
+[24Aug2025 22:05:11.873] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23140!/:?]
@@ -1381,7 +1381,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.072] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
+[24Aug2025 22:05:11.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1410,7 +1410,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
+[24Aug2025 22:05:11.877] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1439,7 +1439,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:calamari_2_recipe
+[24Aug2025 22:05:11.878] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:calamari_2_recipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1468,135 +1468,84 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Aug2025 20:37:32.076] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[24Aug2025 20:37:32.189] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1561 advancements
-[24Aug2025 20:37:32.196] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[24Aug2025 20:37:32.200] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24Aug2025 20:37:33.736] [main/WARN] [firstaid/registry]: Damage distribution ResourceKey[firstaid:damage_distributions / firstaid:explosion] overwrites previously registered distribution for damage type projectile_explosion
-[24Aug2025 20:37:33.737] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[24Aug2025 20:37:33.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Aug2025 20:37:33.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Aug2025 20:37:33.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Aug2025 20:37:33.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Aug2025 20:37:34.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Aug2025 20:37:34.074] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Aug2025 20:37:34.156] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Aug2025 20:37:34.157] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Aug2025 20:37:34.157] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Aug2025 20:37:34.157] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Aug2025 20:37:34.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Aug2025 20:37:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Aug2025 20:37:39.778] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:39.815] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:39.832] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:39.841] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:39.851] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:39.860] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:40.337] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:40.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:41.329] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Aug2025 20:37:41.828] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[24Aug2025 20:37:42.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[24Aug2025 20:37:42.828] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[24Aug2025 20:37:43.347] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6020 ms
-[24Aug2025 20:37:43.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.175s)! For help, type "help"
-[24Aug2025 20:37:43.432] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Aug2025 20:37:50.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:41607] logged in with entity id 58 at (-975.3783289291292, 77.0, 161.23304240051348)
-[24Aug2025 20:37:50.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[24Aug2025 20:37:54.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3911ms or 78 ticks behind
-[24Aug2025 20:38:13.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:57651] logged in with entity id 252 at (-1416.3062329344611, 55.0, -1664.8743697310636)
-[24Aug2025 20:38:13.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[24Aug2025 20:38:16.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
-[24Aug2025 20:39:50.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:54077] logged in with entity id 855 at (-972.6120760348272, 77.5625, 158.30000001192093)
-[24Aug2025 20:39:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[24Aug2025 20:41:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
-[24Aug2025 20:42:30.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:58209] logged in with entity id 2175 at (-544.5573084840944, 129.0, -650.525584654449)
-[24Aug2025 20:42:30.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[24Aug2025 20:44:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Common]
-[24Aug2025 20:45:36.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel went up in flames
-[24Aug2025 20:45:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no lo cierres ahora pexsel ya que estoy cerca
-[24Aug2025 20:45:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de la zona
-[24Aug2025 20:45:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pera
-[24Aug2025 20:47:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NOOOOOOOO
-[24Aug2025 20:47:37.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> PERA
-[24Aug2025 20:47:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NOOOOOOO
-[24Aug2025 20:47:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ESPERA
-[24Aug2025 20:47:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NOOOOO
-[24Aug2025 20:48:07.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel went up in flames
-[24Aug2025 20:49:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
-[24Aug2025 20:51:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> X2
-[24Aug2025 20:51:27.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mejor 500
-[24Aug2025 20:51:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> plis
-[24Aug2025 20:53:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 went up in flames
-[24Aug2025 20:54:20.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 1000.0 block(s) wide over 1200 second(s)]
-[24Aug2025 20:54:57.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Light as a Rabbit]
-[24Aug2025 20:54:59.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Light as a Rabbit]
-[24Aug2025 21:01:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si
-[24Aug2025 21:05:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[24Aug2025 21:07:40.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15749, l='ServerLevel[world]', x=-1551.73, y=113.00, z=-1315.34] died, message: 'Villager was slain by Zombie'
-[24Aug2025 21:12:06.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
-[24Aug2025 21:12:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[24Aug2025 21:12:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[24Aug2025 21:14:03.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:51051] logged in with entity id 21299 at (-1493.1393465310348, 86.0, -1282.300000011921)
-[24Aug2025 21:14:03.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[24Aug2025 21:15:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me voy a matar
-[24Aug2025 21:15:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo rotas las piernas
-[24Aug2025 21:15:48.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
-[24Aug2025 21:18:34.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[24Aug2025 21:24:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cerre el oyo
-[24Aug2025 21:24:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> uff
-[24Aug2025 21:25:47.436] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:25:47.437] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:26:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo en fa
-[24Aug2025 21:26:52.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
-[24Aug2025 21:26:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[24Aug2025 21:28:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[24Aug2025 21:29:39.277] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:29:42.230] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:29:45.182] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:30:47.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:57287] logged in with entity id 28736 at (-1280.433335876309, 152.5625, -307.22330112325454)
-[24Aug2025 21:30:47.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[24Aug2025 21:32:16.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> toca matarse otra ve
-[24Aug2025 21:32:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
-[24Aug2025 21:36:28.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:47567] logged in with entity id 33162 at (-111.93749526718385, 70.0, 15.901568917771627)
-[24Aug2025 21:36:28.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
-[24Aug2025 21:36:31.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the confines of this world
-[24Aug2025 21:36:38.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[24Aug2025 21:37:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[24Aug2025 21:38:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[24Aug2025 21:38:14.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[24Aug2025 21:38:30.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[24Aug2025 21:38:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[24Aug2025 21:39:11.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[24Aug2025 21:40:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by Skeleton
-[24Aug2025 21:40:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 froze to death
-[24Aug2025 21:41:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by Skeleton
-[24Aug2025 21:41:51.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1047, y=99, z=-776}
-[24Aug2025 21:41:51.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1046, y=98, z=-776}
-[24Aug2025 21:41:51.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1045, y=97, z=-776}
-[24Aug2025 21:41:56.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-771}
-[24Aug2025 21:41:56.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1049, y=99, z=-772}
-[24Aug2025 21:41:56.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
-[24Aug2025 21:41:58.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
-[24Aug2025 21:41:58.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-771}
-[24Aug2025 21:41:58.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
-[24Aug2025 21:42:01.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1050, y=99, z=-772}
-[24Aug2025 21:42:10.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=99, z=-771}
-[24Aug2025 21:42:10.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1062, y=97, z=-771}
-[24Aug2025 21:42:10.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=97, z=-772}
-[24Aug2025 21:42:11.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1064, y=98, z=-774}
-[24Aug2025 21:42:11.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1064, y=99, z=-775}
-[24Aug2025 21:42:11.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=96, z=-770} BlockPos{x=-1063, y=99, z=-775}
-[24Aug2025 21:45:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Best Friends Forever]
-[24Aug2025 21:45:25.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel hit the ground too hard
-[24Aug2025 21:46:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
-[24Aug2025 21:48:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Eighty!]
-[24Aug2025 21:48:49.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Cover Me with Diamonds]
-[24Aug2025 21:48:50.883] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:48:50.883] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:48:50.884] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:48:50.884] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[24Aug2025 21:49:40.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES fell from a high place
-[24Aug2025 21:58:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 300.0 block(s) wide over 5 second(s)]
-[24Aug2025 21:58:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the confines of this world
-[24Aug2025 21:58:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the confines of this world
+[24Aug2025 22:05:11.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[24Aug2025 22:05:11.980] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1561 advancements
+[24Aug2025 22:05:11.986] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[24Aug2025 22:05:11.991] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Aug2025 22:05:13.578] [main/WARN] [firstaid/registry]: Damage distribution ResourceKey[firstaid:damage_distributions / firstaid:explosion] overwrites previously registered distribution for damage type projectile_explosion
+[24Aug2025 22:05:13.579] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[24Aug2025 22:05:13.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Aug2025 22:05:13.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Aug2025 22:05:13.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Aug2025 22:05:13.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Aug2025 22:05:13.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Aug2025 22:05:13.818] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Aug2025 22:05:13.901] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Aug2025 22:05:13.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Aug2025 22:05:13.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Aug2025 22:05:13.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Aug2025 22:05:13.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Aug2025 22:05:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Aug2025 22:05:20.801] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.862] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.893] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.941] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.964] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.978] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:20.997] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:21.093] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:21.482] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Aug2025 22:05:21.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:22.092] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:22.623] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Aug2025 22:05:23.091] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[24Aug2025 22:05:23.591] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[24Aug2025 22:05:23.801] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6710 ms
+[24Aug2025 22:05:23.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.887s)! For help, type "help"
+[24Aug2025 22:05:23.831] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Aug2025 22:05:23.959] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/54, l='ServerLevel[world]', x=-1007.45, y=112.00, z=-899.60]
+[24Aug2025 22:05:31.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:58713] logged in with entity id 111 at (-1310.3011493500042, 192.0, -628.268025046595)
+[24Aug2025 22:05:31.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[24Aug2025 22:05:36.389] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bat['Bat'/273, l='ServerLevel[world]', x=-1135.54, y=64.26, z=-567.07]
+[24Aug2025 22:05:36.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bat['Bat'/279, l='ServerLevel[world]', x=-1129.47, y=60.57, z=-576.66]
+[24Aug2025 22:06:00.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:38799] logged in with entity id 313 at (-1552.57096541473, 65.0, -1220.300000011921)
+[24Aug2025 22:06:00.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 22:06:06.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:60225] logged in with entity id 585 at (-1152.865547815734, 163.0, -624.4499922204518)
+[24Aug2025 22:06:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[24Aug2025 22:06:16.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/666, l='ServerLevel[world]', x=-1515.34, y=100.00, z=-1022.46]
+[24Aug2025 22:06:16.157] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/672, l='ServerLevel[world]', x=-1409.83, y=115.00, z=-1016.32]
+[24Aug2025 22:06:23.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@571858e9[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:58101) lost connection: Disconnected
+[24Aug2025 22:06:35.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:48055] logged in with entity id 715 at (-971.3842648592772, 67.16610926093821, -759.5990851121659)
+[24Aug2025 22:06:35.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[24Aug2025 22:06:44.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45856d36[id=<null>,name=tiliaso_01,properties={},legacy=false] (/127.100.100.92:36491) lost connection: Disconnected
+[24Aug2025 22:06:48.131] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af4d992[id=<null>,name=tiliaso_01,properties={},legacy=false] (/127.100.100.92:55485) lost connection: Disconnected
+[24Aug2025 22:06:52.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:54963] logged in with entity id 923 at (-1513.2346520000206, 91.67647087614428, -1215.4788130428626)
+[24Aug2025 22:06:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[24Aug2025 22:07:22.186] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/1190, l='ServerLevel[world]', x=-1325.50, y=116.00, z=-877.33]
+[24Aug2025 22:07:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set EMILIOSIFUENTES's game mode to Spectator Mode]
+[24Aug2025 22:09:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set EMILIOSIFUENTES's game mode to Survival Mode]
+[24Aug2025 22:10:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
+[24Aug2025 22:11:06.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pinche lluvia
+[24Aug2025 22:11:13.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> te da frio
+[24Aug2025 22:11:40.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
+[24Aug2025 22:11:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[24Aug2025 22:11:56.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES burned to death
+[24Aug2025 22:12:15.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[24Aug2025 22:12:16.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 22:12:18.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1239, y=173, z=-600}
+[24Aug2025 22:13:20.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Enderman
+[24Aug2025 22:13:29.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:48319] logged in with entity id 5926 at (-1333.699999988079, 94.0, -1001.7289178495371)
+[24Aug2025 22:13:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[24Aug2025 22:13:32.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Enderman
+[24Aug2025 22:13:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Enderman
+[24Aug2025 22:14:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 700.0 block(s) wide over 300 second(s)]
+[24Aug2025 22:14:52.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to -1178.500000, 191.000000, -636.500000]
+[24Aug2025 22:21:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev used EMILIOSIFUENTES as paint
+[24Aug2025 22:22:59.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> porque me dieron time aut?
+[24Aug2025 22:23:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> por ver el directo
+[24Aug2025 22:23:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ???
+[24Aug2025 22:23:23.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pero si estaba jugando
+[24Aug2025 22:23:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ohh ya se porque no ves que dijiste mira se duplicaron las cosas
+[24Aug2025 22:23:53.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> y me quede viendo pe
+[24Aug2025 22:23:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> perob no vi

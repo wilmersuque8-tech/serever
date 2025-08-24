@@ -1733,3 +1733,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 01:11:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to tiliaso_01]
 [24Aug2025 01:12:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
 [24Aug2025 01:12:36.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Iron Golem
+[24Aug2025 01:13:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 01:13:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 01:13:48.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> e
+[24Aug2025 01:15:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel went up in flames
+[24Aug2025 01:15:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> Duermanse
+[24Aug2025 01:16:22.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32620, l='ServerLevel[world]', x=-1846.70, y=93.56, z=-991.09] died, message: 'Villager was slain by Zombie'
+[24Aug2025 01:16:53.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32605, l='ServerLevel[world]', x=-1848.99, y=93.00, z=-990.26] died, message: 'Villager was slain by Zombie'
+[24Aug2025 01:17:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> tilin
+[24Aug2025 01:17:09.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> duerme
+[24Aug2025 01:17:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no
+[24Aug2025 01:18:33.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Iron Golem
+[24Aug2025 01:18:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
+[24Aug2025 01:21:28.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES was kicked for floating too long!
+[24Aug2025 01:21:28.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Disconnected
+[24Aug2025 01:21:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[24Aug2025 01:21:28.977] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 01:21:42.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:38903] logged in with entity id 38659 at (-1758.739292807611, 96.24918707874468, -893.4780987441234)
+[24Aug2025 01:21:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[24Aug2025 01:23:27.230] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enhancedvisuals:main,creativecore:main] rejected their client side version number
+[24Aug2025 01:23:27.230] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Aug2025 01:23:27.275] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a4a6f52[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:60537) lost connection: Connection closed - mismatched mod channel list
+[24Aug2025 01:24:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Hot Stuff]
+[24Aug2025 01:24:55.544] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enhancedvisuals:main,creativecore:main] rejected their client side version number
+[24Aug2025 01:24:55.545] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Aug2025 01:24:55.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d0de73d[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:57789) lost connection: Connection closed - mismatched mod channel list
+[24Aug2025 01:28:26.875] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6d035e88[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:36659): Took too long to log in
+[24Aug2025 01:28:26.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d035e88[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:36659) lost connection: Took too long to log in
+[24Aug2025 01:28:26.928] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 01:30:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [We Need to Go Deeper]
+[24Aug2025 01:32:32.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES tried to swim in lava
+[24Aug2025 01:32:39.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:34619] logged in with entity id 45073 at (-948.3510086521916, 103.0, -240.6383645127523)
+[24Aug2025 01:32:39.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 01:32:39.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[24Aug2025 01:32:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 01:32:39.873] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 01:32:52.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:49533] logged in with entity id 45137 at (-948.3510086521916, 103.0, -240.6383645127523)
+[24Aug2025 01:32:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 01:32:57.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Pillager
+[24Aug2025 01:33:22.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 01:33:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 01:33:33.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:45471] logged in with entity id 45869 at (-954.3000000119209, 95.0, -239.69999998807907)
+[24Aug2025 01:33:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game

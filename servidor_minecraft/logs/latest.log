@@ -1569,3 +1569,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 23:15:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was assassinated by Eduardo171
 [24Aug2025 23:15:22.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 used EMILIOSIFUENTES as paint
 [24Aug2025 23:15:23.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was obliterated by Eduardo171
+[24Aug2025 23:15:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was assassinated by EMILIOSIFUENTES
+[24Aug2025 23:15:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was obliterated by Eduardo171
+[24Aug2025 23:15:47.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pexsel
+[24Aug2025 23:15:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 used rexsel as paint
+[24Aug2025 23:16:01.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was gunned down by Eduardo171
+[24Aug2025 23:16:08.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[24Aug2025 23:16:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was obliterated by Eduardo171
+[24Aug2025 23:16:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was obliterated by Eduardo171
+[24Aug2025 23:16:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was obliterated by Eduardo171
+[24Aug2025 23:16:38.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171's vehicle was destroyed by rexsel
+[24Aug2025 23:16:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was assassinated by EMILIOSIFUENTES
+[24Aug2025 23:16:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set the time to 1000]
+[24Aug2025 23:16:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was gunned down by rexsel
+[24Aug2025 23:17:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was gunned down by rexsel
+[24Aug2025 23:17:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was gunned down by EMILIOSIFUENTES
+[24Aug2025 23:17:10.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1406, y=88, z=-925}
+[24Aug2025 23:17:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was gunned down by rexsel
+[24Aug2025 23:17:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was gunned down by EMILIOSIFUENTES
+[24Aug2025 23:17:23.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was gunned down by rexsel
+[24Aug2025 23:17:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was obliterated by EMILIOSIFUENTES
+[24Aug2025 23:17:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was assassinated by EMILIOSIFUENTES
+[24Aug2025 23:17:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set Eduardo171's game mode to Creative Mode]
+[24Aug2025 23:17:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set tiliaso_01's game mode to Creative Mode]
+[24Aug2025 23:17:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set EMILIOSIFUENTES's game mode to Creative Mode]
+[24Aug2025 23:17:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 23:17:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set elikernomamahuev's game mode to Creative Mode]
+[24Aug2025 23:20:31.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set spawn point to -1337, 112, -1016 [0.0] in minecraft:overworld for rexsel]
+[24Aug2025 23:20:34.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set spawn point to -1337, 110, -1016 [0.0] in minecraft:overworld for rexsel]
+[24Aug2025 23:21:01.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -1.1268080497313804,-10.706557693933505,-0.5789168435345573
+[24Aug2025 23:22:53.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 23:22:57.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! -10.990427158667899,-4.3000030517578125,1.499983026883001
+[24Aug2025 23:23:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 23:23:27.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! -10.990427158667899,-4.3000030517578125,1.499983026883001
+[24Aug2025 23:23:32.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[24Aug2025 23:23:55.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8457ms or 169 ticks behind
+[24Aug2025 23:24:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Super Container]
+[24Aug2025 23:24:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set Eduardo171's game mode to Survival Mode]
+[24Aug2025 23:24:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set tiliaso_01's game mode to Survival Mode]
+[24Aug2025 23:24:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set EMILIOSIFUENTES's game mode to Survival Mode]
+[24Aug2025 23:24:09.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 23:24:09.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set elikernomamahuev's game mode to Survival Mode]
+[24Aug2025 23:24:21.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171's vehicle was destroyed by elikernomamahuev
+[24Aug2025 23:24:35.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel's vehicle was destroyed by elikernomamahuev
+[24Aug2025 23:24:47.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved wrongly!
+[24Aug2025 23:24:59.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171's vehicle was destroyed by EMILIOSIFUENTES
+[24Aug2025 23:25:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 used rexsel as paint
+[24Aug2025 23:25:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was obliterated by EMILIOSIFUENTES
+[24Aug2025 23:25:22.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was shot by tiliaso_01
+[24Aug2025 23:25:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was obliterated by EMILIOSIFUENTES
+[24Aug2025 23:25:29.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 1.7245619842910855,10.926229378184317,-0.8758584083550431
+[24Aug2025 23:25:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 23:25:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was obliterated by elikernomamahuev
+[24Aug2025 23:25:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev used elikernomamahuev as paint

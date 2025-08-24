@@ -361,6 +361,7 @@
       "minecraft:skeleton": "2025-08-24 00:32:44 +0000",
       "minecraft:spider": "2025-08-24 02:35:34 +0000",
       "minecraft:creeper": "2025-08-24 00:57:45 +0000",
+      "minecraft:witch": "2025-08-24 23:15:27 +0000",
       "minecraft:cave_spider": "2025-08-24 03:25:29 +0000",
       "minecraft:enderman": "2025-08-24 02:22:50 +0000",
       "minecraft:stray": "2025-08-24 21:46:33 +0000",
@@ -1866,6 +1867,24 @@
   "superbwarfare:main/physics_excalibur": {
     "criteria": {
       "0": "2025-08-24 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-24 23:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-24 23:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-24 23:20:36 +0000"
     },
     "done": true
   },

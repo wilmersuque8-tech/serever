@@ -313,6 +313,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-23 04:29:05 +0000",
       "minecraft:spider": "2025-08-23 04:22:20 +0000",
+      "minecraft:creeper": "2025-08-24 02:17:35 +0000",
       "minecraft:stray": "2025-08-23 03:40:28 +0000",
       "minecraft:zombie": "2025-08-23 03:59:00 +0000",
       "minecraft:drowned": "2025-08-23 05:16:55 +0000",
@@ -2122,6 +2123,18 @@
   "superbwarfare:recipes/misc/large_battery_pack": {
     "criteria": {
       "has_copper_plate": "2025-08-24 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-24 02:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-24 02:17:37 +0000"
     },
     "done": true
   },

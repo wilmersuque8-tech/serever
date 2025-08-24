@@ -825,7 +825,8 @@
       "minecraft:creeper": "2025-08-23 04:19:52 +0000",
       "minecraft:witch": "2025-08-23 04:28:39 +0000",
       "minecraft:silverfish": "2025-08-23 05:06:33 +0000",
-      "minecraft:zombie": "2025-08-23 04:01:16 +0000"
+      "minecraft:zombie": "2025-08-23 04:01:16 +0000",
+      "minecraft:zombie_villager": "2025-08-24 02:24:16 +0000"
     },
     "done": false
   },
@@ -1909,6 +1910,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/cemented_carbide_barrel": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-24 02:26:31 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:main/hammer": {
     "criteria": {
       "0": "2025-08-24 02:11:28 +0000"
@@ -1951,6 +1958,18 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/cemented_carbide_spring": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-24 02:26:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_trigger": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-24 02:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-24 01:59:02 +0000"
@@ -1990,6 +2009,18 @@
   "toughasnails:recipes/food/charc_os": {
     "criteria": {
       "has_charcoal": "2025-08-24 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-24 02:29:37 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_action": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-24 02:26:31 +0000"
     },
     "done": true
   },

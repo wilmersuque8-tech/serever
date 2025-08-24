@@ -352,6 +352,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-24 00:32:44 +0000",
       "minecraft:creeper": "2025-08-24 00:57:45 +0000",
+      "minecraft:enderman": "2025-08-24 02:22:50 +0000",
       "minecraft:zombie": "2025-08-24 00:57:41 +0000",
       "minecraft:zombie_villager": "2025-08-24 00:57:50 +0000"
     },
@@ -1020,6 +1021,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-08-24 02:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-24 02:24:24 +0000"
     },
     "done": true
   },

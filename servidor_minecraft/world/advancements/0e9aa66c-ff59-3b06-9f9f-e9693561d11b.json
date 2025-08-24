@@ -2704,6 +2704,12 @@
     },
     "done": true
   },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-24 23:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-08-24 23:11:06 +0000"

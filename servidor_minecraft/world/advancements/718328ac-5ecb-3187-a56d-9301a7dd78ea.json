@@ -14,13 +14,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-23 05:08:57 +0000",
+      "minecraft:taiga": "2025-08-24 03:30:27 +0000",
+      "minecraft:frozen_river": "2025-08-24 03:44:15 +0000",
       "minecraft:cherry_grove": "2025-08-23 06:19:47 +0000",
       "minecraft:river": "2025-08-23 06:34:52 +0000",
       "minecraft:snowy_plains": "2025-08-23 03:29:49 +0000",
+      "minecraft:stony_shore": "2025-08-24 03:29:44 +0000",
       "minecraft:snowy_taiga": "2025-08-23 03:30:04 +0000",
       "minecraft:dripstone_caves": "2025-08-23 04:38:51 +0000",
       "minecraft:grove": "2025-08-23 03:43:25 +0000",
       "minecraft:forest": "2025-08-23 03:39:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-24 03:30:35 +0000",
       "minecraft:deep_dark": "2025-08-23 05:33:34 +0000",
       "minecraft:meadow": "2025-08-23 04:15:51 +0000",
       "minecraft:plains": "2025-08-23 04:15:52 +0000"
@@ -315,6 +319,7 @@
       "minecraft:spider": "2025-08-23 04:22:20 +0000",
       "minecraft:creeper": "2025-08-24 02:17:35 +0000",
       "minecraft:witch": "2025-08-24 02:39:34 +0000",
+      "minecraft:cave_spider": "2025-08-24 03:09:11 +0000",
       "minecraft:stray": "2025-08-23 03:40:28 +0000",
       "minecraft:zombie": "2025-08-23 03:59:00 +0000",
       "minecraft:drowned": "2025-08-23 05:16:55 +0000",
@@ -2013,75 +2018,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 01:54:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-24 02:05:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-08-24 01:55:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-24 02:05:40 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/hammer": {
-    "criteria": {
-      "0": "2025-08-24 02:06:18 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/tools/empty_copper_canteen": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-24 02:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-08-24 01:55:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
@@ -2097,27 +2036,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-24 01:54:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-24 02:06:05 +0000"
     },
     "done": true
   },
@@ -2127,45 +2048,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/small_battery_pack": {
-    "criteria": {
-      "has_copper_plate": "2025-08-24 02:06:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-24 01:54:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
@@ -2187,19 +2072,85 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 01:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 01:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-24 02:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-24 02:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-24 02:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-24 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-24 02:06:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-24 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 02:06:33 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_copper_ingot": "2025-08-24 02:06:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "superbwarfare:recipes/misc/small_battery_pack": {
     "criteria": {
-      "has_stone": "2025-08-24 02:46:57 +0000"
+      "has_copper_plate": "2025-08-24 02:06:39 +0000"
     },
     "done": true
   },
   "superbwarfare:recipes/misc/large_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-24 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/medium_battery_pack": {
     "criteria": {
       "has_copper_plate": "2025-08-24 02:06:39 +0000"
     },
@@ -2217,39 +2168,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_iron_block": "2025-08-24 02:06:05 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/medium_battery_pack": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_copper_plate": "2025-08-24 02:06:39 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "has_andesite": "2025-08-24 01:54:47 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_raw_copper": "2025-08-24 02:05:40 +0000"
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:46:57 +0000"
     },
     "done": true
   },
@@ -2262,6 +2249,192 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-24 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-24 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-24 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-24 03:28:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-24 03:30:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-24 03:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-24 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-24 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-24 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-24 03:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-08-24 03:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-08-24 03:38:25 +0000"
     },
     "done": true
   },

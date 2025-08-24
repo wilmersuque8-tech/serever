@@ -1965,6 +1965,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/ak_47_smithing": {
+    "criteria": {
+      "has_ak_47_blueprint": "2025-08-24 02:45:06 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
       "has_leaves": "2025-08-24 01:40:27 +0000"
@@ -2028,6 +2034,12 @@
   "toughasnails:recipes/food/charc_os": {
     "criteria": {
       "has_charcoal": "2025-08-24 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ak_47_blueprint": {
+    "criteria": {
+      "has_ak_47_blueprint": "2025-08-24 02:45:06 +0000"
     },
     "done": true
   },

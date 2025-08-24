@@ -1565,3 +1565,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 22:32:56.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
 [24Aug2025 22:33:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Piglin
 [24Aug2025 22:33:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Piglin
+[24Aug2025 22:38:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 22:42:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by rexsel
+[24Aug2025 22:44:08.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Eduardo171
+[24Aug2025 22:44:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was shot by tiliaso_01
+[24Aug2025 22:44:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was shot by rexsel
+[24Aug2025 22:44:45.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1058, y=96, z=-773}
+[24Aug2025 22:45:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by rexsel

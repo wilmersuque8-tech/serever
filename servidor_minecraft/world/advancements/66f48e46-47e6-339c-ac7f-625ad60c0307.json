@@ -21,6 +21,7 @@
       "minecraft:snowy_plains": "2025-08-23 03:27:29 +0000",
       "minecraft:stony_shore": "2025-08-23 04:09:10 +0000",
       "minecraft:snowy_taiga": "2025-08-23 03:28:05 +0000",
+      "minecraft:dripstone_caves": "2025-08-24 22:34:39 +0000",
       "minecraft:grove": "2025-08-23 04:17:01 +0000",
       "minecraft:jagged_peaks": "2025-08-23 04:02:55 +0000",
       "minecraft:forest": "2025-08-23 03:38:15 +0000",
@@ -532,6 +533,7 @@
       "cooked_porkchop": "2025-08-23 04:50:46 +0000",
       "cooked_mutton": "2025-08-23 04:37:22 +0000",
       "cooked_beef": "2025-08-23 03:49:28 +0000",
+      "golden_apple": "2025-08-24 22:39:08 +0000",
       "glow_berries": "2025-08-23 04:37:10 +0000",
       "cooked_chicken": "2025-08-23 04:12:45 +0000"
     },
@@ -2115,6 +2117,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-24 22:07:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-24 22:45:20 +0000"
     },
     "done": true
   },

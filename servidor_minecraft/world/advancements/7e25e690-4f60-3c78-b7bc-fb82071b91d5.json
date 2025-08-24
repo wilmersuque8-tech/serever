@@ -386,6 +386,7 @@
       "cooked_porkchop": "2025-08-23 05:54:31 +0000",
       "cooked_mutton": "2025-08-23 04:23:27 +0000",
       "porkchop": "2025-08-23 06:40:55 +0000",
+      "mutton": "2025-08-24 01:48:06 +0000",
       "cooked_rabbit": "2025-08-23 04:37:54 +0000"
     },
     "done": false
@@ -1936,6 +1937,42 @@
   "superbwarfare:recipes/combat/svd_smithing": {
     "criteria": {
       "has_svd_blueprint": "2025-08-23 06:45:57 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_iron_canteen": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-24 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-08-24 01:39:51 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-08-24 01:44:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-08-24 01:44:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-08-24 01:44:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-08-24 01:44:12 +0000"
     },
     "done": true
   },

@@ -1775,3 +1775,66 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 01:33:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
 [24Aug2025 01:33:33.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:45471] logged in with entity id 45869 at (-954.3000000119209, 95.0, -239.69999998807907)
 [24Aug2025 01:33:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 01:35:14.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev tried to swim in lava
+[24Aug2025 01:35:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> como me caliento?
+[24Aug2025 01:35:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me mori de frio
+[24Aug2025 01:36:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> como se dice faroles?
+[24Aug2025 01:36:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> en ingles
+[24Aug2025 01:36:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES tried to swim in lava
+[24Aug2025 01:37:06.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48840, l='ServerLevel[world]', x=-1491.38, y=104.00, z=-933.70] died, message: 'Villager was slain by Zombie'
+[24Aug2025 01:37:18.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/48839, l='ServerLevel[world]', x=-1494.83, y=96.02, z=-914.56] died, message: 'Armorer was slain by Zombie'
+[24Aug2025 01:37:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> se me entumio el cuerpo
+[24Aug2025 01:37:26.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
+[24Aug2025 01:41:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> tego sed pe
+[24Aug2025 01:42:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was fireballed by Ghast
+[24Aug2025 01:43:34.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[24Aug2025 01:43:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was fireballed by Ghast
+[24Aug2025 01:47:50.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES was kicked for floating too long!
+[24Aug2025 01:47:50.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Flying is not enabled on this server
+[24Aug2025 01:47:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[24Aug2025 01:48:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel froze to death
+[24Aug2025 01:51:20.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:48027] logged in with entity id 61463 at (-1035.6107321245106, 110.79673560066871, -820.4140015574773)
+[24Aug2025 01:51:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[24Aug2025 01:51:42.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36376, l='ServerLevel[world]', x=-865.50, y=107.00, z=213.70] died, message: 'Villager was slain by Zombie'
+[24Aug2025 01:51:55.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES fell from a high place
+[24Aug2025 01:52:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was shot by Skeleton
+[24Aug2025 01:54:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES tried to swim in lava
+[24Aug2025 01:55:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel froze to death
+[24Aug2025 01:55:30.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bro no es RLcraft
+[24Aug2025 01:55:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Pillager
+[24Aug2025 01:56:16.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> esa mierda tiene xray
+[24Aug2025 01:56:21.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 01:56:21.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 01:56:56.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:33523] logged in with entity id 66219 at (-62.5, 70.0, -421.5)
+[24Aug2025 01:56:56.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 01:57:01.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was frozen to death by Skeleton
+[24Aug2025 01:57:57.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> puedo usar la linterna en la otra mano?
+[24Aug2025 01:58:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> la chingadera esa
+[24Aug2025 01:58:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> para que no me de frio
+[24Aug2025 01:59:26.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 01:59:26.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 01:59:50.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:34175] logged in with entity id 68405 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 01:59:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 01:59:54.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel froze to death
+[24Aug2025 02:00:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me va a sacar
+[24Aug2025 02:00:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vaya mierda
+[24Aug2025 02:00:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ez
+[24Aug2025 02:00:20.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:00:20.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:00:44.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:60227] logged in with entity id 68994 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:00:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:01:12.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya me saco?
+[24Aug2025 02:01:14.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:01:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:01:34.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:39121] logged in with entity id 69793 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:01:34.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:02:05.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:02:05.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:02:20.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:38437] logged in with entity id 70519 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:02:20.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:02:50.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:02:50.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:03:26.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:58601] logged in with entity id 71401 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:03:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:03:56.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:03:56.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game

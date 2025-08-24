@@ -1838,3 +1838,43 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 02:03:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
 [24Aug2025 02:03:56.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
 [24Aug2025 02:03:56.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:04:17.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 02:04:18.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:36921] logged in with entity id 71957 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:04:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:04:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
+[24Aug2025 02:04:50.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:04:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:05:03.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:32989] logged in with entity id 72725 at (-159.30000001192093, 64.0, -166.69999998807907)
+[24Aug2025 02:05:03.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:05:04.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[24Aug2025 02:05:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[24Aug2025 02:06:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Eighty!]
+[24Aug2025 02:06:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 02:06:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel froze to death
+[24Aug2025 02:09:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Skeleton
+[24Aug2025 02:10:28.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Skeleton
+[24Aug2025 02:10:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que lag
+[24Aug2025 02:10:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de mierda
+[24Aug2025 02:10:49.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:10:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:11:14.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:47593] logged in with entity id 77496 at (-423.6354714412988, 64.16224757799785, -172.76943611612998)
+[24Aug2025 02:11:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:11:19.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Skeleton
+[24Aug2025 02:11:28.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Eighty!]
+[24Aug2025 02:11:59.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:11:59.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:12:17.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:45673] logged in with entity id 78469 at (-403.26923796260303, 63.7531999805212, -157.62737657662518)
+[24Aug2025 02:12:17.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:12:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no me dan ganas de jugar asi con este lagaso
+[24Aug2025 02:13:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> abre con el optifine pe
+[24Aug2025 02:13:07.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ni asi
+[24Aug2025 02:13:08.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36373, l='ServerLevel[world]', x=-885.45, y=109.00, z=213.70] died, message: 'Villager was slain by Zombie'
+[24Aug2025 02:13:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pero configuraste el optifine
+[24Aug2025 02:13:24.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> bajaste todo al mininmo
+[24Aug2025 02:13:41.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev froze to death
+[24Aug2025 02:14:02.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:14:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:14:15.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:49451] logged in with entity id 80023 at (-413.1179431642308, 73.0625, -155.71439484840744)
+[24Aug2025 02:14:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:14:30.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo pido que quiten ese mod de mierda
+[24Aug2025 02:14:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> XD

@@ -1833,21 +1833,15 @@
     },
     "done": true
   },
-  "superbwarfare:main/physics_excalibur": {
-    "criteria": {
-      "0": "2025-08-24 22:52:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-08-24 22:17:23 +0000"
     },
     "done": true
   },
-  "superbwarfare:main/super_container": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "0": "2025-08-24 22:52:11 +0000"
+      "has_gray_wool": "2025-08-24 22:17:23 +0000"
     },
     "done": true
   },
@@ -1863,9 +1857,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "superbwarfare:main/super_container": {
     "criteria": {
-      "has_gray_wool": "2025-08-24 22:17:23 +0000"
+      "0": "2025-08-24 22:52:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-24 22:52:19 +0000"
     },
     "done": true
   },

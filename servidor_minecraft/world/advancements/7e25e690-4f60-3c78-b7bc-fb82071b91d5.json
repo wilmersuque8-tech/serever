@@ -2376,5 +2376,35 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-24 22:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-24 22:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-24 22:58:31 +0000"
+    },
+    "done": false
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-24 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-24 22:59:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

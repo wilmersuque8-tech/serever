@@ -2114,9 +2114,27 @@
     },
     "done": true
   },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-24 22:54:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-24 22:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-24 22:49:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-24 22:55:06 +0000"
     },
     "done": true
   },

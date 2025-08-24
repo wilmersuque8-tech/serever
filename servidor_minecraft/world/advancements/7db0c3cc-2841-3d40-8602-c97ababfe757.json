@@ -1833,9 +1833,33 @@
     },
     "done": true
   },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-08-24 22:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-08-24 22:17:23 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-08-24 22:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-24 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-24 22:49:00 +0000"
     },
     "done": true
   },

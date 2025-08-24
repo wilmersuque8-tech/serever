@@ -1572,3 +1572,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 22:44:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was shot by rexsel
 [24Aug2025 22:44:45.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1058, y=96, z=-773}
 [24Aug2025 22:45:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by rexsel
+[24Aug2025 22:45:38.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> No pue
+[24Aug2025 22:45:40.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya ganaron
+[24Aug2025 22:45:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya pa que XD
+[24Aug2025 22:46:03.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> el ultimo que se salga del mundo e puto
+[24Aug2025 22:46:05.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[24Aug2025 22:46:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 22:46:25.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by EMILIOSIFUENTES
+[24Aug2025 22:46:28.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1059, y=96, z=-795}
+[24Aug2025 22:46:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by EMILIOSIFUENTES
+[24Aug2025 22:47:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 22:49:06.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
+[24Aug2025 22:49:06.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[24Aug2025 22:49:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Cover Me with Diamonds]
+[24Aug2025 22:50:58.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel used EMILIOSIFUENTES as paint
+[24Aug2025 22:51:40.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 22:51:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set Eduardo171's game mode to Creative Mode]
+[24Aug2025 22:51:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set EMILIOSIFUENTES's game mode to Creative Mode]
+[24Aug2025 22:52:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to rexsel]
+[24Aug2025 22:52:11.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Super Container]
+[24Aug2025 22:52:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Physics Excalibur]
+[24Aug2025 22:52:21.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set the center of the world border to -1404.13, -926.70]
+[24Aug2025 22:52:32.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 300.0 block(s) wide over 1 second(s)]
+[24Aug2025 22:52:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 200.0 block(s) wide over 1 second(s)]
+[24Aug2025 22:52:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Shrinking the world border to 100.0 block(s) wide over 1 second(s)]
+[24Aug2025 22:52:56.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24492, l='ServerLevel[world]', x=-1373.19, y=88.00, z=-894.14] died, message: 'Villager was slain by Zombie'
+[24Aug2025 22:53:09.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to rexsel]
+[24Aug2025 22:53:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Growing the world border to 200.0 blocks wide over 1 seconds]
+[24Aug2025 22:54:02.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:57631] logged in with entity id 25210 at (-974.3522967003071, 89.0, -1075.7881048581198)
+[24Aug2025 22:54:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[24Aug2025 22:54:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the confines of this world
+[24Aug2025 22:54:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Physics Excalibur]
+[24Aug2025 22:54:41.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set tiliaso_01's game mode to Creative Mode]
+[24Aug2025 22:55:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Super Container]

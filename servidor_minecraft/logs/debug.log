@@ -5062,3 +5062,148 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 00:50:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no abre pe
 [24Aug2025 00:50:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Sweet Dreams]
 [24Aug2025 00:51:00.272] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:53:02.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 00:53:02.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 00:54:04.878] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:56:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 00:56:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 00:56:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no puedo abril el cofre pe
+[24Aug2025 00:56:56.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> vaya polla
+[24Aug2025 00:57:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> XD
+[24Aug2025 00:57:19.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ya ise la llave
+[24Aug2025 00:57:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pero no da
+[24Aug2025 00:57:25.209] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:57:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie
+[24Aug2025 00:57:26.823] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:57:27.093] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997047093
+[24Aug2025 00:57:31.459] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:57:32.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 00:57:40.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 00:57:44.120] [Server thread/DEBUG] [mixin/]: Mixing tacz.EntityUtilMixin from mixins.superbwarfare.json into com.tacz.guns.util.EntityUtil
+[24Aug2025 00:58:02.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 00:58:02.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 00:58:26.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/17482, l='ServerLevel[world]', x=-1439.30, y=96.00, z=-926.70] died, message: 'Leatherworker was slain by EMILIOSIFUENTES'
+[24Aug2025 00:58:31.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17537, l='ServerLevel[world]', x=-1427.70, y=93.69, z=-927.40] died, message: 'Villager was slain by EMILIOSIFUENTES'
+[24Aug2025 00:59:26.692] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 00:59:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Acquire Hardware]
+[24Aug2025 01:00:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Suit Up]
+[24Aug2025 01:02:47.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> vale verga
+[24Aug2025 01:02:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no lo puedo quitar pe
+[24Aug2025 01:02:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> XDD
+[24Aug2025 01:02:57.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> con ganzuas
+[24Aug2025 01:03:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> te toca abrirlo
+[24Aug2025 01:03:02.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:03:02.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:03:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> intenro pero las rompo al toque
+[24Aug2025 01:03:18.723] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:03:19.780] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:03:55.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:04.616] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:04.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:05.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:06.620] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:06.770] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:08.621] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:08.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:10.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:10.779] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 01:04:14.614] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:04:14.878] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997454874
+[24Aug2025 01:05:14.174] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:14.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no bale alaverga
+[24Aug2025 01:05:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ppiipi
+[24Aug2025 01:05:26.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> mis barras de blace
+[24Aug2025 01:05:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> vale verga
+[24Aug2025 01:05:31.126] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:31.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES fell from a high place
+[24Aug2025 01:05:32.521] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:32.820] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997532812
+[24Aug2025 01:05:34.619] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:36.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:38.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:40.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:42.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:44.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:46.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:48.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:50.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:52.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:54.573] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:56.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:05:58.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:06:00.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:06:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 01:06:02.056] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:06:02.331] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997562307
+[24Aug2025 01:06:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> se vale el tp?
+[24Aug2025 01:06:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> no
+[24Aug2025 01:06:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> tilin?
+[24Aug2025 01:06:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> que
+[24Aug2025 01:06:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> se vale el tp?
+[24Aug2025 01:06:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> nop
+[24Aug2025 01:06:35.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> pipipipi
+[24Aug2025 01:06:40.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> tu mismo dijiste p
+[24Aug2025 01:06:43.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> XD
+[24Aug2025 01:06:45.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> e velda
+[24Aug2025 01:07:15.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ptm
+[24Aug2025 01:07:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no abre
+[24Aug2025 01:07:22.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:24.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> te ayudo?
+[24Aug2025 01:07:26.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:28.023] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:30.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:32.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:34.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:36.025] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:38.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> te puedo comparir pantalla
+[24Aug2025 01:07:40.022] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:42.026] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:43.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> ok
+[24Aug2025 01:07:44.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:46.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:48.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:50.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:52.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:54.027] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:54.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 01:07:55.483] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:07:55.744] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997675744
+[24Aug2025 01:08:02.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:08:02.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:08:56.879] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:15.426] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:17.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:19.426] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:21.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:23.425] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:25.426] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:27.423] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:29.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:31.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 froze to death
+[24Aug2025 01:09:32.820] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:09:33.078] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997773068
+[24Aug2025 01:10:47.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 01:10:59.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 01:11:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[24Aug2025 01:11:07.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[24Aug2025 01:11:07.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:11:07.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:11:49.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[24Aug2025 01:11:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[24Aug2025 01:12:05.173] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[24Aug2025 01:12:21.822] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:32.858] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:33.858] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:34.859] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:35.908] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:36.908] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:36.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Iron Golem
+[24Aug2025 01:12:38.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Aug2025 01:12:38.657] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1755997958632
+[24Aug2025 01:13:02.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:13:02.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

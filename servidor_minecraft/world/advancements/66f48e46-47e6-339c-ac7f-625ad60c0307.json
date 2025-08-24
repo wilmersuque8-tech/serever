@@ -1816,5 +1816,77 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_gold_canteen": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_iron_canteen": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-08-24 00:23:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

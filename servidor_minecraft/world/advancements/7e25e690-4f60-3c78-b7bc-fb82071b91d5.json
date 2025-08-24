@@ -38,6 +38,7 @@
       "minecraft:snowy_beach": "2025-08-23 04:17:49 +0000",
       "minecraft:frozen_peaks": "2025-08-23 05:10:57 +0000",
       "minecraft:deep_dark": "2025-08-23 04:39:22 +0000",
+      "minecraft:meadow": "2025-08-24 20:43:47 +0000",
       "minecraft:plains": "2025-08-24 03:35:37 +0000"
     },
     "done": false
@@ -2146,6 +2147,54 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-24 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-24 21:15:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-24 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_1911_smithing": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-08-24 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_1911_blueprint": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-08-24 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_gold_canteen": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-24 20:49:20 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:49:20 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-08-24 20:49:34 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-24 20:49:20 +0000"
     },
     "done": true
   },

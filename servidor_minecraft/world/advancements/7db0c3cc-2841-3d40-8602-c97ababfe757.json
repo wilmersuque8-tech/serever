@@ -25,15 +25,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-24 21:02:23 +0000",
       "minecraft:taiga": "2025-08-24 01:18:57 +0000",
       "minecraft:frozen_river": "2025-08-24 01:02:29 +0000",
       "minecraft:snowy_plains": "2025-08-24 00:25:11 +0000",
+      "minecraft:stony_shore": "2025-08-24 21:22:46 +0000",
       "minecraft:snowy_taiga": "2025-08-24 00:25:42 +0000",
       "minecraft:grove": "2025-08-24 01:19:27 +0000",
+      "minecraft:forest": "2025-08-24 21:17:10 +0000",
       "minecraft:lush_caves": "2025-08-24 01:38:17 +0000",
       "minecraft:snowy_beach": "2025-08-24 01:01:28 +0000",
       "minecraft:frozen_peaks": "2025-08-24 01:19:23 +0000",
-      "minecraft:deep_dark": "2025-08-24 02:40:15 +0000"
+      "minecraft:deep_dark": "2025-08-24 02:40:15 +0000",
+      "minecraft:meadow": "2025-08-24 21:11:19 +0000",
+      "minecraft:plains": "2025-08-24 21:03:15 +0000"
     },
     "done": false
   },
@@ -1711,9 +1716,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-24 21:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-24 21:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-24 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-24 21:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-24 20:42:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-24 20:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-08-24 20:54:59 +0000"
     },
     "done": true
   },
@@ -1726,6 +1767,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-24 20:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-24 20:59:52 +0000"
     },
     "done": true
   },

@@ -2620,5 +2620,71 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-24 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-24 20:45:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-24 20:45:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-24 20:46:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-24 20:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-24 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-24 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-08-24 21:19:55 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/c4_bomb_rc": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-08-24 21:19:55 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/ap_head": {
+    "criteria": {
+      "has_high_energy_explosives": "2025-08-24 21:19:55 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2025-08-24 21:15:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

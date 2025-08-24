@@ -29,6 +29,7 @@
       "minecraft:frozen_peaks": "2025-08-23 05:08:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-24 01:11:59 +0000",
       "minecraft:deep_dark": "2025-08-23 05:05:46 +0000",
+      "minecraft:meadow": "2025-08-24 21:10:27 +0000",
       "minecraft:plains": "2025-08-23 03:37:32 +0000"
     },
     "done": false
@@ -2074,6 +2075,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-08-24 20:54:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-24 20:39:31 +0000"
@@ -2089,6 +2102,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-08-24 20:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-24 20:49:17 +0000"
     },
     "done": true
   },

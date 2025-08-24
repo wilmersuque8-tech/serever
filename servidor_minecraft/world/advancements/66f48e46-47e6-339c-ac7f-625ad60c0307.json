@@ -824,6 +824,7 @@
       "minecraft:spider": "2025-08-23 04:18:45 +0000",
       "minecraft:creeper": "2025-08-23 04:19:52 +0000",
       "minecraft:witch": "2025-08-23 04:28:39 +0000",
+      "minecraft:cave_spider": "2025-08-24 02:37:48 +0000",
       "minecraft:silverfish": "2025-08-23 05:06:33 +0000",
       "minecraft:zombie": "2025-08-23 04:01:16 +0000",
       "minecraft:zombie_villager": "2025-08-24 02:24:16 +0000"
@@ -1892,6 +1893,12 @@
     },
     "done": true
   },
+  "superbwarfare:main/rare_blueprint": {
+    "criteria": {
+      "0": "2025-08-24 02:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-24 01:47:05 +0000"
@@ -1928,6 +1935,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/rpg_smithing": {
+    "criteria": {
+      "has_rpg_blueprint": "2025-08-24 02:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-24 01:35:16 +0000"
@@ -1937,6 +1950,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-24 01:59:06 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/rpg_blueprint": {
+    "criteria": {
+      "has_rpg_blueprint": "2025-08-24 02:38:32 +0000"
     },
     "done": true
   },

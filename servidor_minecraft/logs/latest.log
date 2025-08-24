@@ -1949,3 +1949,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [24Aug2025 02:34:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was doomed to fall by Skeleton
 [24Aug2025 02:35:02.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:56621] logged in with entity id 95052 at (-956.3138789341239, 93.00133597911214, -241.742796037692)
 [24Aug2025 02:35:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:35:48.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:35:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:36:16.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:47069] logged in with entity id 95717 at (-950.5, 96.0, -201.5)
+[24Aug2025 02:36:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:36:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Zombie
+[24Aug2025 02:36:47.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:36:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:37:37.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7d470fc5[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:60129): Took too long to log in
+[24Aug2025 02:37:37.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d470fc5[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:60129) lost connection: Took too long to log in
+[24Aug2025 02:37:37.571] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Aug2025 02:38:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Rare]
+[24Aug2025 02:38:44.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> como vajo la temoperatura en el nether
+[24Aug2025 02:38:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 overheated to death
+[24Aug2025 02:38:58.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> vale verga
+[24Aug2025 02:39:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> como se supone que tenga frio en el nether
+[24Aug2025 02:40:09.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was doomed to fall by Creeper
+[24Aug2025 02:41:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Enderman
+[24Aug2025 02:42:15.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:59499] logged in with entity id 100400 at (-950.5, 96.0, -201.5)
+[24Aug2025 02:42:15.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:42:25.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Diamonds!]
+[24Aug2025 02:43:01.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:43:01.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:43:16.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:45761] logged in with entity id 101030 at (-950.5, 96.0, -201.5)
+[24Aug2025 02:43:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:43:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Pillager
+[24Aug2025 02:43:46.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:43:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:44:11.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:38189] logged in with entity id 101776 at (-950.5, 96.0, -201.5)
+[24Aug2025 02:44:11.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[24Aug2025 02:44:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was shot by Pillager
+[24Aug2025 02:44:41.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[24Aug2025 02:44:41.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[24Aug2025 02:44:54.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:43659] logged in with entity id 102418 at (-950.5, 96.0, -201.5)
+[24Aug2025 02:44:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
